@@ -4,6 +4,8 @@ from llama_cpp import Llama
 from utils.prompt_builder import build_prompt
 from utils.data_lookup import search_relevant_facts
 from utils.preprocess import clean_input
+import requests
+
 
 def download_model_from_gdrive(file_id, dest_path):
     if os.path.exists(dest_path):
