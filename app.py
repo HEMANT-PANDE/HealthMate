@@ -6,6 +6,10 @@ from utils.data_lookup import search_relevant_facts
 from utils.preprocess import clean_input
 import requests
 
+#  Model Config
+MODEL_ID = "1JVvjBG2lNHe7eV-jkGt4Qnofk0-B2Ic4"
+MODEL_PATH = "model/tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
+
 os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
 
 def download_model_from_gdrive(file_id, dest_path):
@@ -19,9 +23,7 @@ def download_model_from_gdrive(file_id, dest_path):
             if chunk:
                 f.write(chunk)
 
-#  Model Config
-MODEL_ID = "1JVvjBG2lNHe7eV-jkGt4Qnofk0-B2Ic4"
-MODEL_PATH = "model/tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
+
 download_model_from_gdrive(MODEL_ID, MODEL_PATH)
 llm = Llama(model_path=MODEL_PATH, n_ctx=2048, n_threads=4, verbose=False)
 
