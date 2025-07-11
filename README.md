@@ -44,27 +44,6 @@ HealthMate is a lightweight, AI-powered chatbot that offers personalized health 
 
 ---
 
-## 📁 Folder Structure
-
-healthmate/
-│
-├── app.py # Main chatbot app
-├── download_model.py # Downloads LLaMA model from GDrive
-├── requirements.txt # Python dependencies
-├── .streamlit/config.toml # Streamlit UI customization
-├── render.yaml # Deployment config for Render
-│
-├── data/
-│ └── diabetes_with_wearables.csv # Combined EHR + wearable dataset
-│
-├── utils/
-│ ├── preprocess.py # Input cleaning
-│ ├── prompt_builder.py # Prompt creation
-│ └── data_lookup.py # Find relevant health facts
-
-
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -72,13 +51,14 @@ healthmate/
    ```bash
    git clone https://github.com/HEMANT-PANDE/HealthMate.git
    cd HealthMate
-2. **Create a virtual environment**
+2. **Create a virtual environment :**
+
    python -m venv venv
   source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. **Install dependencies**
+3. **Install dependencies :**
 pip install -r requirements.txt
 
-4. **Run the app**
+4. **Run the app :**
 streamlit run app.py
 
 
