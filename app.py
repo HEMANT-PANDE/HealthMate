@@ -6,26 +6,40 @@ from utils.data_lookup import search_relevant_facts
 from utils.preprocess import clean_input
 import requests
 
-#  Model Config
-MODEL_ID = "1JVvjBG2lNHe7eV-jkGt4Qnofk0-B2Ic4"
-MODEL_PATH = "model/tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
-
-os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
-
-def download_model_from_gdrive(file_id, dest_path):
+def download_file_from_google_drive(file_id, dest_path):
     if os.path.exists(dest_path):
-        return
-    print(" Downloading model from Google Drive...")
-    url = f"https://drive.google.com/uc?export=download&id={file_id}"
-    response = requests.get(url, stream=True)
+        return  # Skip if already downloaded
+
+    print("📦 Downloading model from Google Drive...")
+    URL = "https://drive.google.com/uc?export=download"
+
+    session = requests.Session()
+    response = session.get(URL, params={'id': file_id}, stream=True)
+
+    def get_confirm_token(resp):
+        for key, value in resp.cookies.items():
+            if key.startswith("download_warning"):
+                return value
+        return None
+
+    token = get_confirm_token(response)
+    if token:
+        params = {'id': file_id, 'confirm': token}
+        response = session.get(URL, params=params, stream=True)
+
+    os.makedirs(os.path.dirname(dest_path), exist_ok=True)
     with open(dest_path, "wb") as f:
-        for chunk in response.iter_content(chunk_size=8192):
+        for chunk in response.iter_content(32768):
             if chunk:
                 f.write(chunk)
 
+MODEL_ID = "1JVvjBG2lNHe7eV-jkGt4Qnofk0-B2Ic4"  # Your Google Drive file ID
+MODEL_PATH = "model/tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
 
-download_model_from_gdrive(MODEL_ID, MODEL_PATH)
+download_file_from_google_drive(MODEL_ID, MODEL_PATH)
+
 llm = Llama(model_path=MODEL_PATH, n_ctx=2048, n_threads=4, verbose=False)
+
 
 #  Session State
 if "chat_history" not in st.session_state:
