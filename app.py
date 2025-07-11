@@ -1,25 +1,39 @@
+import os
 import streamlit as st
 from llama_cpp import Llama
 from utils.prompt_builder import build_prompt
 from utils.data_lookup import search_relevant_facts
 from utils.preprocess import clean_input
 
-# 🔹 Model Configuration
-MODEL_PATH = "D:\\SPS Internship\\health-chatbot-gpt\\model\\tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
+def download_model_from_gdrive(file_id, dest_path):
+    if os.path.exists(dest_path):
+        return
+    print(" Downloading model from Google Drive...")
+    url = f"https://drive.google.com/uc?export=download&id={file_id}"
+    response = requests.get(url, stream=True)
+    with open(dest_path, "wb") as f:
+        for chunk in response.iter_content(chunk_size=8192):
+            if chunk:
+                f.write(chunk)
+
+#  Model Config
+MODEL_ID = "1JVvjBG2lNHe7eV-jkGt4Qnofk0-B2Ic4"
+MODEL_PATH = "model/tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf"
+download_model_from_gdrive(MODEL_ID, MODEL_PATH)
 llm = Llama(model_path=MODEL_PATH, n_ctx=2048, n_threads=4, verbose=False)
 
-# 🔹 Session State
+#  Session State
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
-# 🔹 Page UI
+#  Page UI
 st.set_page_config(page_title="HealthMate - Chat", layout="centered")
 st.markdown("## 🧠 HealthMate - Personalized Health Assistant")
 
-# 🔹 User Input
+#  User Input
 user_input = st.chat_input("Talk to your health assistant...")
 
-# 🔹 Chat Handling
+#  Chat Handling
 if user_input:
     st.chat_message("user").markdown(user_input)
     cleaned_input = clean_input(user_input)
