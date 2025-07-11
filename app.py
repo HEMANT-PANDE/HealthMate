@@ -6,6 +6,7 @@ from utils.data_lookup import search_relevant_facts
 from utils.preprocess import clean_input
 import requests
 
+os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
 
 def download_model_from_gdrive(file_id, dest_path):
     if os.path.exists(dest_path):
