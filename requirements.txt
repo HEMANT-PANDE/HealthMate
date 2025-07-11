@@ -1,0 +1,6 @@
+streamlit
+pandas
+llama-cpp-python==0.2.24
+numpy
+scikit-learn
+fpdf

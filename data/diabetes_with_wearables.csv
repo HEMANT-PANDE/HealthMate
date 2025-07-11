@@ -1,0 +1,769 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome,steps_per_day,sleep_score,hrv,heart_rate,calories_burned,sedentary_minutes,activity_level,clinical_note
+6,148,72,35,0,33.6,0.627,50,1,9270,90,62.5,68,2685,372,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,85,66,29,0,26.6,0.351,31,0,2860,58,32.5,100,1846,209,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+8,183,64,0,0,23.3,0.672,32,1,7390,60,44.5,60,2450,464,Moderate,Patient shows signs of elevated glucose levels.
+1,89,66,23,94,28.1,0.167,21,0,7191,44,31.1,61,2884,637,Moderate,Patient shows signs of poor sleep quality.
+0,137,40,35,168,43.1,2.288,33,1,7734,57,69.4,107,2610,446,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+5,116,74,0,0,25.6,0.201,30,0,8265,67,67.2,88,2785,745,High,Patient is in stable condition with good vitals and activity.
+3,78,50,32,88,31,0.248,26,1,2466,81,22,92,1713,698,Low,"Patient shows signs of sedentary lifestyle, obesity observed, low heart rate variability."
+10,115,0,0,0,35.3,0.134,29,0,6426,61,55.3,69,2072,328,Moderate,Patient shows signs of obesity observed.
+2,197,70,45,543,30.5,0.158,53,1,7578,60,66.3,109,2279,526,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+8,125,96,0,0,0,0.232,54,1,10322,45,29,99,1761,603,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+4,110,92,0,0,37.6,0.191,30,0,3685,40,48.4,80,2229,558,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+10,168,74,0,0,38,0.537,34,1,2769,44,65.8,87,1782,216,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+10,139,80,0,0,27.1,1.441,57,0,8949,80,21.7,70,2990,473,High,Patient shows signs of low heart rate variability.
+1,189,60,23,846,30.1,0.398,59,1,4433,51,54.9,93,2903,315,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+5,166,72,19,175,25.8,0.587,51,1,7311,65,34.9,67,1861,290,Moderate,Patient shows signs of elevated glucose levels.
+7,100,0,0,0,30,0.484,32,1,7051,85,66.2,81,2972,281,Moderate,Patient is in stable condition with good vitals and activity.
+0,118,84,47,230,45.8,0.551,31,1,8420,73,68.6,67,1940,523,High,Patient shows signs of obesity observed.
+7,107,74,0,0,29.6,0.254,31,1,3184,88,67.2,108,1592,313,Low,Patient shows signs of sedentary lifestyle.
+1,103,30,38,83,43.3,0.183,33,0,6555,53,43.7,74,2252,257,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+1,115,70,30,96,34.6,0.529,32,1,5385,65,63.1,76,2366,353,Moderate,Patient shows signs of obesity observed.
+3,126,88,41,235,39.3,0.704,27,0,8396,84,62.2,82,2947,603,High,Patient shows signs of obesity observed.
+8,99,84,0,0,35.4,0.388,50,0,10666,66,36,83,1641,465,High,Patient shows signs of obesity observed.
+7,196,90,0,0,39.8,0.451,41,1,11274,48,61.4,104,2814,514,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+9,119,80,35,0,29,0.263,29,1,4558,65,21.9,78,2955,240,Moderate,Patient shows signs of low heart rate variability.
+11,143,94,33,146,36.6,0.254,51,1,9849,96,49.8,64,2248,304,High,"Patient shows signs of elevated glucose levels, obesity observed."
+10,125,70,26,115,31.1,0.205,41,1,4047,86,31.5,91,2152,392,Moderate,Patient shows signs of obesity observed.
+7,147,76,0,0,39.4,0.257,43,1,4747,96,26,103,2200,600,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+1,97,66,15,140,23.2,0.487,22,0,11167,61,23.8,60,2497,477,High,Patient shows signs of low heart rate variability.
+13,145,82,19,110,22.2,0.245,57,0,11998,86,54.8,82,1548,553,High,Patient shows signs of elevated glucose levels.
+5,117,92,0,0,34.1,0.337,38,0,2189,95,37,96,2825,779,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+5,109,75,26,0,36,0.546,60,0,4734,69,56.2,67,2380,455,Moderate,Patient shows signs of obesity observed.
+3,158,76,36,245,31.6,0.851,28,1,5005,82,23.3,72,2713,298,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+3,88,58,11,54,24.8,0.267,22,0,6658,87,35.8,67,2659,787,Moderate,Patient is in stable condition with good vitals and activity.
+6,92,92,0,0,19.9,0.188,28,0,3899,56,47,82,2054,481,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+10,122,78,31,0,27.6,0.512,45,0,9734,65,59.5,102,1903,602,High,Patient is in stable condition with good vitals and activity.
+4,103,60,33,192,24,0.966,33,0,3267,75,35.9,60,2391,308,Low,Patient shows signs of sedentary lifestyle.
+11,138,76,0,0,33.2,0.42,35,0,3528,40,51.3,104,2364,398,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+9,102,76,37,0,32.9,0.665,46,1,5556,47,64.3,83,2101,502,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+2,90,68,42,0,38.2,0.503,27,1,5890,88,50.8,94,1840,526,Moderate,Patient shows signs of obesity observed.
+4,111,72,47,207,37.1,1.39,56,1,10838,74,31.6,83,2203,353,High,Patient shows signs of obesity observed.
+3,180,64,25,70,34,0.271,26,0,7393,91,21.2,76,1817,751,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+7,133,84,0,0,40.2,0.696,37,0,10792,54,63.5,64,2117,604,High,"Patient shows signs of poor sleep quality, obesity observed."
+7,106,92,18,0,22.7,0.235,48,0,10433,86,21.1,79,2886,661,High,Patient shows signs of low heart rate variability.
+9,171,110,24,240,45.4,0.721,54,1,9513,95,63.7,80,1881,331,High,"Patient shows signs of elevated glucose levels, obesity observed."
+7,159,64,0,0,27.4,0.294,40,0,4612,61,46.4,99,1732,283,Moderate,Patient shows signs of elevated glucose levels.
+0,180,66,39,0,42,1.893,25,1,9041,53,67,90,2867,598,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+1,146,56,0,0,29.7,0.564,29,0,11555,65,59.9,105,2316,308,High,Patient shows signs of elevated glucose levels.
+2,71,70,27,0,28,0.586,22,0,8235,67,69.9,95,2052,420,High,Patient is in stable condition with good vitals and activity.
+7,103,66,32,0,39.1,0.344,31,1,7486,62,37.5,70,2355,752,Moderate,Patient shows signs of obesity observed.
+7,105,0,0,0,0,0.305,24,0,9099,53,58.4,74,2318,567,High,Patient shows signs of poor sleep quality.
+1,103,80,11,82,19.4,0.491,22,0,11670,63,40.1,78,1682,346,High,Patient is in stable condition with good vitals and activity.
+1,101,50,15,36,24.2,0.526,26,0,2775,41,44,66,2564,311,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+5,88,66,21,23,24.4,0.342,30,0,10226,84,51.4,87,1896,757,High,Patient is in stable condition with good vitals and activity.
+8,176,90,34,300,33.7,0.467,58,1,5152,65,63.7,102,2278,693,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+7,150,66,42,342,34.7,0.718,42,0,3585,53,69.2,64,2406,704,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+1,73,50,10,0,23,0.248,21,0,5943,98,58.4,64,2856,674,Moderate,Patient is in stable condition with good vitals and activity.
+7,187,68,39,304,37.7,0.254,41,1,9555,95,40.9,89,1626,470,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,100,88,60,110,46.8,0.962,31,0,5073,90,41.1,91,1500,620,Moderate,Patient shows signs of obesity observed.
+0,146,82,0,0,40.5,1.781,44,0,3021,46,56.9,67,2691,566,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+0,105,64,41,142,41.5,0.173,22,0,5843,42,31.9,69,1518,479,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+2,84,0,0,0,0,0.304,21,0,9989,86,25.5,97,2855,482,High,Patient shows signs of low heart rate variability.
+8,133,72,0,0,32.9,0.27,39,1,11692,62,37.7,106,2083,239,High,Patient shows signs of obesity observed.
+5,44,62,0,0,25,0.587,36,0,8873,85,34.4,91,1955,388,High,Patient is in stable condition with good vitals and activity.
+2,141,58,34,128,25.4,0.699,24,0,7675,82,34.8,107,2456,363,Moderate,Patient shows signs of elevated glucose levels.
+7,114,66,0,0,32.8,0.258,42,1,2161,86,31.7,87,2632,735,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+5,99,74,27,0,29,0.203,32,0,6297,99,22.1,76,2791,735,Moderate,Patient shows signs of low heart rate variability.
+0,109,88,30,0,32.5,0.855,38,1,2995,84,20.9,90,1944,203,Low,"Patient shows signs of sedentary lifestyle, obesity observed, low heart rate variability."
+2,109,92,0,0,42.7,0.845,54,0,9629,57,69.4,67,2763,489,High,"Patient shows signs of poor sleep quality, obesity observed."
+1,95,66,13,38,19.6,0.334,25,0,11467,97,41.4,99,2824,632,High,Patient is in stable condition with good vitals and activity.
+4,146,85,27,100,28.9,0.189,27,0,3016,77,39.2,84,2101,670,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle."
+2,100,66,20,90,32.9,0.867,28,1,9869,74,54,68,1602,380,High,Patient shows signs of obesity observed.
+5,139,64,35,140,28.6,0.411,26,0,8439,90,30.9,61,2487,447,High,Patient is in stable condition with good vitals and activity.
+13,126,90,0,0,43.4,0.583,42,1,9892,54,67.5,74,2773,478,High,"Patient shows signs of poor sleep quality, obesity observed."
+4,129,86,20,270,35.1,0.231,23,0,8863,64,59.3,109,2976,780,High,Patient shows signs of obesity observed.
+1,79,75,30,0,32,0.396,22,0,9916,94,24.5,62,2019,453,High,"Patient shows signs of obesity observed, low heart rate variability."
+1,0,48,20,0,24.7,0.14,22,0,10529,76,40.9,108,2676,380,High,Patient is in stable condition with good vitals and activity.
+7,62,78,0,0,32.6,0.391,41,0,2878,67,64,95,2358,708,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+5,95,72,33,0,37.7,0.37,27,0,11268,49,67.2,63,1673,765,High,"Patient shows signs of poor sleep quality, obesity observed."
+0,131,0,0,0,43.2,0.27,26,1,6887,78,43.4,73,2866,525,Moderate,Patient shows signs of obesity observed.
+2,112,66,22,0,25,0.307,24,0,6859,96,50.7,100,2504,556,Moderate,Patient is in stable condition with good vitals and activity.
+3,113,44,13,0,22.4,0.14,22,0,8331,56,28.4,100,1930,590,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+2,74,0,0,0,0,0.102,22,0,10571,78,69.6,84,2226,284,High,Patient is in stable condition with good vitals and activity.
+7,83,78,26,71,29.3,0.767,36,0,10684,61,31.6,109,2349,516,High,Patient is in stable condition with good vitals and activity.
+0,101,65,28,0,24.6,0.237,22,0,9208,65,67.1,69,2847,411,High,Patient is in stable condition with good vitals and activity.
+5,137,108,0,0,48.8,0.227,37,1,7276,83,52.5,80,2489,714,Moderate,Patient shows signs of obesity observed.
+2,110,74,29,125,32.4,0.698,27,0,4062,64,50.4,95,2138,583,Moderate,Patient shows signs of obesity observed.
+13,106,72,54,0,36.6,0.178,45,0,2064,56,45.6,71,1919,541,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+2,100,68,25,71,38.5,0.324,26,0,10006,52,31.5,86,2093,237,High,"Patient shows signs of poor sleep quality, obesity observed."
+15,136,70,32,110,37.1,0.153,43,1,4568,59,28.8,99,1984,710,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+1,107,68,19,0,26.5,0.165,24,0,7463,64,31,61,1911,619,Moderate,Patient is in stable condition with good vitals and activity.
+1,80,55,0,0,19.1,0.258,21,0,4027,43,29.3,72,2435,368,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+4,123,80,15,176,32,0.443,34,0,4695,49,59,91,2607,542,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+7,81,78,40,48,46.7,0.261,42,0,11687,42,37.5,90,2636,505,High,"Patient shows signs of poor sleep quality, obesity observed."
+4,134,72,0,0,23.8,0.277,60,1,7258,80,22.9,75,1831,741,Moderate,Patient shows signs of low heart rate variability.
+2,142,82,18,64,24.7,0.761,21,0,7618,84,68.5,91,2901,736,Moderate,Patient shows signs of elevated glucose levels.
+6,144,72,27,228,33.9,0.255,40,0,8736,57,64.2,91,2154,311,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+2,92,62,28,0,31.6,0.13,24,0,2391,86,66.4,93,1540,610,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+1,71,48,18,76,20.4,0.323,22,0,7892,75,69.7,70,2458,405,Moderate,Patient is in stable condition with good vitals and activity.
+6,93,50,30,64,28.7,0.356,23,0,5561,86,28.7,69,1604,384,Moderate,Patient shows signs of low heart rate variability.
+1,122,90,51,220,49.7,0.325,31,1,8184,61,39.8,74,1701,581,High,Patient shows signs of obesity observed.
+1,163,72,0,0,39,1.222,33,1,5099,73,57.9,76,1949,695,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+1,151,60,0,0,26.1,0.179,22,0,8278,86,54.8,99,2789,578,High,Patient shows signs of elevated glucose levels.
+0,125,96,0,0,22.5,0.262,21,0,10392,47,27.7,77,2409,246,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+1,81,72,18,40,26.6,0.283,24,0,5104,79,60.8,68,1709,750,Moderate,Patient is in stable condition with good vitals and activity.
+2,85,65,0,0,39.6,0.93,27,0,9215,88,31.2,84,2062,727,High,Patient shows signs of obesity observed.
+1,126,56,29,152,28.7,0.801,21,0,4454,83,31.2,99,2641,703,Moderate,Patient is in stable condition with good vitals and activity.
+1,96,122,0,0,22.4,0.207,27,0,10996,58,46.8,73,2212,221,High,Patient shows signs of poor sleep quality.
+4,144,58,28,140,29.5,0.287,37,0,4731,81,49.6,84,2900,412,Moderate,Patient shows signs of elevated glucose levels.
+3,83,58,31,18,34.3,0.336,25,0,10154,80,49,109,2270,509,High,Patient shows signs of obesity observed.
+0,95,85,25,36,37.4,0.247,24,1,11762,76,24.6,81,2607,471,High,"Patient shows signs of obesity observed, low heart rate variability."
+3,171,72,33,135,33.3,0.199,24,1,7056,45,63.9,89,1953,770,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+8,155,62,26,495,34,0.543,46,1,10110,91,33.3,79,2166,401,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,89,76,34,37,31.2,0.192,23,0,5840,65,26.5,80,2128,231,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+4,76,62,0,0,34,0.391,25,0,3028,73,64.4,103,1886,642,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+7,160,54,32,175,30.5,0.588,39,1,9385,98,67.8,91,2873,361,High,"Patient shows signs of elevated glucose levels, obesity observed."
+4,146,92,0,0,31.2,0.539,61,1,2502,95,63.1,105,1795,453,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+5,124,74,0,0,34,0.22,38,1,8910,98,60.5,108,1757,720,High,Patient shows signs of obesity observed.
+5,78,48,0,0,33.7,0.654,25,0,11062,84,52.8,80,2604,679,High,Patient shows signs of obesity observed.
+4,97,60,23,0,28.2,0.443,22,0,8938,45,47.5,94,1767,209,High,Patient shows signs of poor sleep quality.
+4,99,76,15,51,23.2,0.223,21,0,6488,76,24.3,91,1918,704,Moderate,Patient shows signs of low heart rate variability.
+0,162,76,56,100,53.2,0.759,25,1,2206,96,40.4,89,1734,759,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+6,111,64,39,0,34.2,0.26,24,0,7134,72,38.6,98,2834,635,Moderate,Patient shows signs of obesity observed.
+2,107,74,30,100,33.6,0.404,23,0,7977,92,33,108,2485,310,Moderate,Patient shows signs of obesity observed.
+5,132,80,0,0,26.8,0.186,69,0,9721,61,56.2,71,2880,352,High,Patient is in stable condition with good vitals and activity.
+0,113,76,0,0,33.3,0.278,23,1,9035,60,44.8,100,2736,301,High,Patient shows signs of obesity observed.
+1,88,30,42,99,55,0.496,26,1,3484,45,24.1,106,2073,390,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed, low heart rate variability."
+3,120,70,30,135,42.9,0.452,30,0,9858,45,31,77,1548,762,High,"Patient shows signs of poor sleep quality, obesity observed."
+1,118,58,36,94,33.3,0.261,23,0,2863,94,54.2,80,2650,280,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+1,117,88,24,145,34.5,0.403,40,1,4790,87,23.8,72,1722,688,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,105,84,0,0,27.9,0.741,62,1,9408,43,62.6,80,2420,287,High,Patient shows signs of poor sleep quality.
+4,173,70,14,168,29.7,0.361,33,1,10755,69,44.8,67,2802,393,High,Patient shows signs of elevated glucose levels.
+9,122,56,0,0,33.3,1.114,33,1,7116,50,44,105,2931,303,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,170,64,37,225,34.5,0.356,30,1,8019,69,49.6,99,2817,295,High,"Patient shows signs of elevated glucose levels, obesity observed."
+8,84,74,31,0,38.3,0.457,39,0,3757,70,61.2,105,1776,622,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+2,96,68,13,49,21.1,0.647,26,0,9574,63,37.4,66,2961,397,High,Patient is in stable condition with good vitals and activity.
+2,125,60,20,140,33.8,0.088,31,0,8374,94,53.9,82,2630,200,High,Patient shows signs of obesity observed.
+0,100,70,26,50,30.8,0.597,21,0,8892,48,48.3,103,1919,606,High,"Patient shows signs of poor sleep quality, obesity observed."
+0,93,60,25,92,28.7,0.532,22,0,3678,94,33.4,91,2110,577,Low,Patient shows signs of sedentary lifestyle.
+0,129,80,0,0,31.2,0.703,29,0,5242,42,63.9,70,2952,366,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+5,105,72,29,325,36.9,0.159,28,0,6636,90,59.9,81,1874,708,Moderate,Patient shows signs of obesity observed.
+3,128,78,0,0,21.1,0.268,55,0,3059,70,52.9,81,1572,512,Low,Patient shows signs of sedentary lifestyle.
+5,106,82,30,0,39.5,0.286,38,0,8668,79,62.5,102,2553,792,High,Patient shows signs of obesity observed.
+2,108,52,26,63,32.5,0.318,22,0,11914,76,63.4,84,2711,617,High,Patient shows signs of obesity observed.
+10,108,66,0,0,32.4,0.272,42,1,5157,75,55.4,81,2887,676,Moderate,Patient shows signs of obesity observed.
+4,154,62,31,284,32.8,0.237,23,0,7915,63,61.9,87,2974,272,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+0,102,75,23,0,0,0.572,21,0,11789,70,54.9,88,1694,340,High,Patient is in stable condition with good vitals and activity.
+9,57,80,37,0,32.8,0.096,41,0,4693,45,54,72,2679,781,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+2,106,64,35,119,30.5,1.4,34,0,5627,41,50.9,77,2695,461,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+5,147,78,0,0,33.7,0.218,65,0,11555,59,57.6,61,2346,539,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+2,90,70,17,0,27.3,0.085,22,0,7450,67,27.9,88,2564,507,Moderate,Patient shows signs of low heart rate variability.
+1,136,74,50,204,37.4,0.399,24,0,3663,50,64,80,2586,444,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+4,114,65,0,0,21.9,0.432,37,0,11721,43,63.6,74,1522,714,High,Patient shows signs of poor sleep quality.
+9,156,86,28,155,34.3,1.189,42,1,7592,54,21.5,86,1859,536,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+1,153,82,42,485,40.6,0.687,23,0,9392,45,61.3,109,2598,774,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+8,188,78,0,0,47.9,0.137,43,1,3306,93,26.4,90,2059,760,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed, low heart rate variability."
+7,152,88,44,0,50,0.337,36,1,8776,88,36.8,74,2171,275,High,"Patient shows signs of elevated glucose levels, obesity observed."
+2,99,52,15,94,24.6,0.637,21,0,7864,69,57.2,82,2641,374,Moderate,Patient is in stable condition with good vitals and activity.
+1,109,56,21,135,25.2,0.833,23,0,11474,95,28,83,2903,308,High,Patient shows signs of low heart rate variability.
+2,88,74,19,53,29,0.229,22,0,9526,77,60.9,103,2178,382,High,Patient is in stable condition with good vitals and activity.
+17,163,72,41,114,40.9,0.817,47,1,10901,90,61.6,72,2813,391,High,"Patient shows signs of elevated glucose levels, obesity observed."
+4,151,90,38,0,29.7,0.294,36,0,7575,96,45.4,81,1939,264,Moderate,Patient shows signs of elevated glucose levels.
+7,102,74,40,105,37.2,0.204,45,0,7530,41,20.3,102,2432,673,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+0,114,80,34,285,44.2,0.167,27,0,6413,54,34.4,96,1506,299,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+2,100,64,23,0,29.7,0.368,21,0,5748,50,50.8,92,2719,743,Moderate,Patient shows signs of poor sleep quality.
+0,131,88,0,0,31.6,0.743,32,1,2663,47,69.1,62,1920,327,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+6,104,74,18,156,29.9,0.722,41,1,3998,65,51.6,78,2332,651,Low,Patient shows signs of sedentary lifestyle.
+3,148,66,25,0,32.5,0.256,22,0,9994,90,33,82,2716,568,High,"Patient shows signs of elevated glucose levels, obesity observed."
+4,120,68,0,0,29.6,0.709,34,0,3495,84,51.7,88,2058,242,Low,Patient shows signs of sedentary lifestyle.
+4,110,66,0,0,31.9,0.471,29,0,5304,83,47,89,2671,618,Moderate,Patient shows signs of obesity observed.
+3,111,90,12,78,28.4,0.495,29,0,5763,44,59,98,2725,687,Moderate,Patient shows signs of poor sleep quality.
+6,102,82,0,0,30.8,0.18,36,1,7232,45,25.3,103,2967,277,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+6,134,70,23,130,35.4,0.542,29,1,3853,65,58.1,106,2413,469,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+2,87,0,23,0,28.9,0.773,25,0,8585,93,47.1,84,2942,514,High,Patient is in stable condition with good vitals and activity.
+1,79,60,42,48,43.5,0.678,23,0,3291,43,68.1,96,2950,367,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+2,75,64,24,55,29.7,0.37,33,0,5581,58,37.1,106,2506,538,Moderate,Patient shows signs of poor sleep quality.
+8,179,72,42,130,32.7,0.719,36,1,9554,59,51.6,67,2998,392,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+6,85,78,0,0,31.2,0.382,42,0,9280,72,66.6,101,1625,652,High,Patient shows signs of obesity observed.
+0,129,110,46,130,67.1,0.319,26,1,3636,59,25.1,75,1894,482,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed, low heart rate variability."
+5,143,78,0,0,45,0.19,47,0,5696,88,66.9,67,2316,535,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+5,130,82,0,0,39.1,0.956,37,1,2698,51,54.4,60,2380,589,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+6,87,80,0,0,23.2,0.084,32,0,6737,86,23.4,103,2075,724,Moderate,Patient shows signs of low heart rate variability.
+0,119,64,18,92,34.9,0.725,23,0,2854,40,35,64,1824,439,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+1,0,74,20,23,27.7,0.299,21,0,10164,65,55.4,62,2915,682,High,Patient is in stable condition with good vitals and activity.
+5,73,60,0,0,26.8,0.268,27,0,7855,53,23.4,60,2429,791,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+4,141,74,0,0,27.6,0.244,40,0,9392,77,49.1,63,2963,754,High,Patient shows signs of elevated glucose levels.
+7,194,68,28,0,35.9,0.745,41,1,8528,76,37.3,99,2727,657,High,"Patient shows signs of elevated glucose levels, obesity observed."
+8,181,68,36,495,30.1,0.615,60,1,7249,50,51,94,2332,288,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+1,128,98,41,58,32,1.321,33,1,7172,75,22.3,91,2554,294,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+8,109,76,39,114,27.9,0.64,31,1,3707,52,63.6,101,2911,651,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+5,139,80,35,160,31.6,0.361,25,1,7791,82,68.7,93,2957,627,Moderate,Patient shows signs of obesity observed.
+3,111,62,0,0,22.6,0.142,21,0,11925,42,68.4,102,2336,350,High,Patient shows signs of poor sleep quality.
+9,123,70,44,94,33.1,0.374,40,0,7535,72,57.5,84,2425,713,Moderate,Patient shows signs of obesity observed.
+7,159,66,0,0,30.4,0.383,36,1,6931,45,26.5,69,2899,575,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+11,135,0,0,0,52.3,0.578,40,1,5510,89,57.9,80,2867,221,Moderate,Patient shows signs of obesity observed.
+8,85,55,20,0,24.4,0.136,42,0,2202,95,21.2,105,1942,512,Low,"Patient shows signs of sedentary lifestyle, low heart rate variability."
+5,158,84,41,210,39.4,0.395,29,1,6218,49,21.1,98,1574,718,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+1,105,58,0,0,24.3,0.187,21,0,10958,44,36.2,86,2056,405,High,Patient shows signs of poor sleep quality.
+3,107,62,13,48,22.9,0.678,23,1,6389,62,44.4,86,2678,574,Moderate,Patient is in stable condition with good vitals and activity.
+4,109,64,44,99,34.8,0.905,26,1,4327,49,58.5,61,2953,650,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+4,148,60,27,318,30.9,0.15,29,1,10004,83,54.2,100,1862,794,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,113,80,16,0,31,0.874,21,0,4931,41,42.3,107,1947,378,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+1,138,82,0,0,40.1,0.236,28,0,9777,52,33.7,72,2757,409,High,"Patient shows signs of poor sleep quality, obesity observed."
+0,108,68,20,0,27.3,0.787,32,0,2197,79,69.9,68,1761,699,Low,Patient shows signs of sedentary lifestyle.
+2,99,70,16,44,20.4,0.235,27,0,9125,41,41.3,95,1624,663,High,Patient shows signs of poor sleep quality.
+6,103,72,32,190,37.7,0.324,55,0,3930,59,42.6,81,2410,323,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+5,111,72,28,0,23.9,0.407,27,0,8287,40,28.2,101,1744,312,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+8,196,76,29,280,37.5,0.605,57,1,10800,76,59.7,85,2041,211,High,"Patient shows signs of elevated glucose levels, obesity observed."
+5,162,104,0,0,37.7,0.151,52,1,11339,48,54.7,71,1984,325,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+1,96,64,27,87,33.2,0.289,21,0,6282,56,31,76,1621,764,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+7,184,84,33,0,35.5,0.355,41,1,4511,48,24.1,73,1624,530,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+2,81,60,22,0,27.7,0.29,25,0,11986,50,54,73,1669,482,High,Patient shows signs of poor sleep quality.
+0,147,85,54,0,42.8,0.375,24,0,2659,54,52.7,93,1623,339,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+7,179,95,31,0,34.2,0.164,60,0,4811,63,33.7,79,2558,600,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+0,140,65,26,130,42.6,0.431,24,1,9098,77,67.5,70,2610,296,High,Patient shows signs of obesity observed.
+9,112,82,32,175,34.2,0.26,36,1,8546,94,27.6,75,2145,716,High,"Patient shows signs of obesity observed, low heart rate variability."
+12,151,70,40,271,41.8,0.742,38,1,11561,74,41.6,90,2285,768,High,"Patient shows signs of elevated glucose levels, obesity observed."
+5,109,62,41,129,35.8,0.514,25,1,3986,69,67.2,65,1700,268,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+6,125,68,30,120,30,0.464,32,0,10338,70,41,78,1868,317,High,Patient is in stable condition with good vitals and activity.
+5,85,74,22,0,29,1.224,32,1,4911,88,51.9,96,2296,258,Moderate,Patient is in stable condition with good vitals and activity.
+5,112,66,0,0,37.8,0.261,41,1,3734,44,39.9,63,1576,232,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+0,177,60,29,478,34.6,1.072,21,1,3843,99,33.7,106,1558,517,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+2,158,90,0,0,31.6,0.805,66,1,10680,83,69.2,63,1930,249,High,"Patient shows signs of elevated glucose levels, obesity observed."
+7,119,0,0,0,25.2,0.209,37,0,4976,89,40.5,79,2137,688,Moderate,Patient is in stable condition with good vitals and activity.
+7,142,60,33,190,28.8,0.687,61,0,3959,53,64.7,69,1608,218,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle."
+1,100,66,15,56,23.6,0.666,26,0,7759,92,31.5,83,2507,396,Moderate,Patient is in stable condition with good vitals and activity.
+1,87,78,27,32,34.6,0.101,22,0,8694,95,30.7,94,2801,649,High,Patient shows signs of obesity observed.
+0,101,76,0,0,35.7,0.198,26,0,4385,50,21.6,85,1567,758,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+3,162,52,38,0,37.2,0.652,24,1,6736,48,52.6,96,2592,651,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+4,197,70,39,744,36.7,2.329,31,0,3802,73,38.4,97,2688,488,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+0,117,80,31,53,45.2,0.089,24,0,10155,51,63.2,80,1804,340,High,"Patient shows signs of poor sleep quality, obesity observed."
+4,142,86,0,0,44,0.645,22,1,10120,74,43.7,99,2173,283,High,"Patient shows signs of elevated glucose levels, obesity observed."
+6,134,80,37,370,46.2,0.238,46,1,8616,74,68.4,98,1864,590,High,Patient shows signs of obesity observed.
+1,79,80,25,37,25.4,0.583,22,0,7534,40,29.3,80,2320,790,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+4,122,68,0,0,35,0.394,29,0,6061,79,63.4,69,2902,414,Moderate,Patient shows signs of obesity observed.
+3,74,68,28,45,29.7,0.293,23,0,2262,61,58.8,97,1842,725,Low,Patient shows signs of sedentary lifestyle.
+4,171,72,0,0,43.6,0.479,26,1,8287,99,58.5,105,2446,414,High,"Patient shows signs of elevated glucose levels, obesity observed."
+7,181,84,21,192,35.9,0.586,51,1,10815,68,62.2,63,2398,602,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,179,90,27,0,44.1,0.686,23,1,11208,47,58.1,104,2877,327,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+9,164,84,21,0,30.8,0.831,32,1,4049,50,51.3,79,2939,676,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+0,104,76,0,0,18.4,0.582,27,0,7423,80,26.6,76,2632,603,Moderate,Patient shows signs of low heart rate variability.
+1,91,64,24,0,29.2,0.192,21,0,6548,76,21.6,66,2261,228,Moderate,Patient shows signs of low heart rate variability.
+4,91,70,32,88,33.1,0.446,22,0,5108,53,66,63,1840,537,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,139,54,0,0,25.6,0.402,22,1,9158,99,50.8,88,2441,560,High,Patient is in stable condition with good vitals and activity.
+6,119,50,22,176,27.1,1.318,33,1,9400,69,59.8,73,1882,768,High,Patient is in stable condition with good vitals and activity.
+2,146,76,35,194,38.2,0.329,29,0,5170,74,44.1,62,2503,591,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+9,184,85,15,0,30,1.213,49,1,11874,60,25.9,83,1799,417,High,"Patient shows signs of elevated glucose levels, low heart rate variability."
+10,122,68,0,0,31.2,0.258,41,0,4255,76,26.3,96,1638,773,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,165,90,33,680,52.3,0.427,23,0,3154,44,54.3,75,1858,401,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+9,124,70,33,402,35.4,0.282,34,0,6499,58,41.5,63,2335,216,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+1,111,86,19,0,30.1,0.143,23,0,8295,98,30,83,2908,521,High,Patient shows signs of obesity observed.
+9,106,52,0,0,31.2,0.38,42,0,8197,53,44.6,93,2803,717,High,"Patient shows signs of poor sleep quality, obesity observed."
+2,129,84,0,0,28,0.284,27,0,11888,65,23.2,89,1982,769,High,Patient shows signs of low heart rate variability.
+2,90,80,14,55,24.4,0.249,24,0,3648,43,49.1,77,2408,524,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+0,86,68,32,0,35.8,0.238,25,0,7539,64,33.4,78,2634,611,Moderate,Patient shows signs of obesity observed.
+12,92,62,7,258,27.6,0.926,44,1,11637,84,59.9,90,2365,517,High,Patient is in stable condition with good vitals and activity.
+1,113,64,35,0,33.6,0.543,21,1,6199,81,35.5,78,1638,281,Moderate,Patient shows signs of obesity observed.
+3,111,56,39,0,30.1,0.557,30,0,10445,64,42.8,108,2495,673,High,Patient shows signs of obesity observed.
+2,114,68,22,0,28.7,0.092,25,0,4557,57,20.6,105,1934,667,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+1,193,50,16,375,25.9,0.655,24,0,7592,79,23.6,78,2008,624,Moderate,"Patient shows signs of elevated glucose levels, low heart rate variability."
+11,155,76,28,150,33.3,1.353,51,1,2098,47,39.6,81,1772,403,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+3,191,68,15,130,30.9,0.299,34,0,4200,78,44,83,2622,782,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+3,141,0,0,0,30,0.761,27,1,4961,79,50,104,1603,586,Moderate,Patient shows signs of elevated glucose levels.
+4,95,70,32,0,32.1,0.612,24,0,6973,53,34.6,71,2737,297,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,142,80,15,0,32.4,0.2,63,0,6433,71,54.7,89,2261,544,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+4,123,62,0,0,32,0.226,35,1,4869,90,63,97,2286,407,Moderate,Patient shows signs of obesity observed.
+5,96,74,18,67,33.6,0.997,43,0,2956,77,59,90,1664,713,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+0,138,0,0,0,36.3,0.933,25,1,10352,72,22,95,2498,785,High,"Patient shows signs of obesity observed, low heart rate variability."
+2,128,64,42,0,40,1.101,24,0,7699,62,44,78,2019,365,Moderate,Patient shows signs of obesity observed.
+0,102,52,0,0,25.1,0.078,21,0,8944,54,25.2,107,2807,221,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+2,146,0,0,0,27.5,0.24,28,1,6493,72,32.1,104,2016,353,Moderate,Patient shows signs of elevated glucose levels.
+10,101,86,37,0,45.6,1.136,38,1,11492,64,69.3,95,2156,638,High,Patient shows signs of obesity observed.
+2,108,62,32,56,25.2,0.128,21,0,6911,56,27.1,89,2112,494,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+3,122,78,0,0,23,0.254,40,0,5987,72,44.9,108,1663,418,Moderate,Patient is in stable condition with good vitals and activity.
+1,71,78,50,45,33.2,0.422,21,0,11719,86,50.9,92,1563,694,High,Patient shows signs of obesity observed.
+13,106,70,0,0,34.2,0.251,52,0,8015,94,55.1,77,2614,429,High,Patient shows signs of obesity observed.
+2,100,70,52,57,40.5,0.677,25,0,3218,41,48,108,2640,219,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+7,106,60,24,0,26.5,0.296,29,1,6496,53,20.5,87,1766,752,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+0,104,64,23,116,27.8,0.454,23,0,6735,92,36.3,106,2663,347,Moderate,Patient is in stable condition with good vitals and activity.
+5,114,74,0,0,24.9,0.744,57,0,6555,79,45.9,70,1745,307,Moderate,Patient is in stable condition with good vitals and activity.
+2,108,62,10,278,25.3,0.881,22,0,11146,79,24.4,104,1894,602,High,Patient shows signs of low heart rate variability.
+0,146,70,0,0,37.9,0.334,28,1,10050,90,37.5,92,1975,795,High,"Patient shows signs of elevated glucose levels, obesity observed."
+10,129,76,28,122,35.9,0.28,39,0,5446,78,21.7,76,2476,682,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+7,133,88,15,155,32.4,0.262,37,0,3045,90,23.9,65,2707,566,Low,"Patient shows signs of sedentary lifestyle, obesity observed, low heart rate variability."
+7,161,86,0,0,30.4,0.165,47,1,8893,45,39.8,63,2543,613,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+2,108,80,0,0,27,0.259,52,1,3693,45,26.6,79,2057,508,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, low heart rate variability."
+7,136,74,26,135,26,0.647,51,0,5436,42,48.4,107,2517,333,Moderate,Patient shows signs of poor sleep quality.
+5,155,84,44,545,38.7,0.619,34,0,10754,46,54.5,106,2382,482,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+1,119,86,39,220,45.6,0.808,29,1,7895,90,60,86,1646,272,Moderate,Patient shows signs of obesity observed.
+4,96,56,17,49,20.8,0.34,26,0,5354,47,30,74,2165,680,Moderate,Patient shows signs of poor sleep quality.
+5,108,72,43,75,36.1,0.263,33,0,2225,81,28.4,65,2827,551,Low,"Patient shows signs of sedentary lifestyle, obesity observed, low heart rate variability."
+0,78,88,29,40,36.9,0.434,21,0,6893,91,25.2,106,2119,759,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,107,62,30,74,36.6,0.757,25,1,9022,54,51.8,73,2319,525,High,"Patient shows signs of poor sleep quality, obesity observed."
+2,128,78,37,182,43.3,1.224,31,1,11151,86,55.3,70,2363,642,High,Patient shows signs of obesity observed.
+1,128,48,45,194,40.5,0.613,24,1,7600,68,21.6,98,2081,299,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,161,50,0,0,21.9,0.254,65,0,9996,72,66.8,68,2522,258,High,Patient shows signs of elevated glucose levels.
+6,151,62,31,120,35.5,0.692,28,0,11007,91,22.6,85,2194,707,High,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+2,146,70,38,360,28,0.337,29,1,9683,69,47.1,75,2751,457,High,Patient shows signs of elevated glucose levels.
+0,126,84,29,215,30.7,0.52,24,0,6642,78,55.5,64,2625,612,Moderate,Patient shows signs of obesity observed.
+14,100,78,25,184,36.6,0.412,46,1,9679,66,63.5,69,2940,651,High,Patient shows signs of obesity observed.
+8,112,72,0,0,23.6,0.84,58,0,10208,75,55.7,109,2739,264,High,Patient is in stable condition with good vitals and activity.
+0,167,0,0,0,32.3,0.839,30,1,9339,68,60.1,62,1906,794,High,"Patient shows signs of elevated glucose levels, obesity observed."
+2,144,58,33,135,31.6,0.422,25,1,11435,77,37,72,1898,353,High,"Patient shows signs of elevated glucose levels, obesity observed."
+5,77,82,41,42,35.8,0.156,35,0,4205,96,60.7,102,2214,465,Moderate,Patient shows signs of obesity observed.
+5,115,98,0,0,52.9,0.209,28,1,3069,72,24,108,2203,278,Low,"Patient shows signs of sedentary lifestyle, obesity observed, low heart rate variability."
+3,150,76,0,0,21,0.207,37,0,5444,76,64.7,89,2260,514,Moderate,Patient shows signs of elevated glucose levels.
+2,120,76,37,105,39.7,0.215,29,0,3060,66,47.4,104,1998,759,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+10,161,68,23,132,25.5,0.326,47,1,4327,94,60.9,65,2988,447,Moderate,Patient shows signs of elevated glucose levels.
+0,137,68,14,148,24.8,0.143,21,0,5420,72,42.6,76,2473,613,Moderate,Patient is in stable condition with good vitals and activity.
+0,128,68,19,180,30.5,1.391,25,1,2301,43,52.2,104,1581,224,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+2,124,68,28,205,32.9,0.875,30,1,2606,61,46.3,78,2103,483,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+6,80,66,30,0,26.2,0.313,41,0,5170,41,56.6,101,2271,648,Moderate,Patient shows signs of poor sleep quality.
+0,106,70,37,148,39.4,0.605,22,0,2699,49,24.1,94,2402,500,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed, low heart rate variability."
+2,155,74,17,96,26.6,0.433,27,1,7088,44,23,105,1864,267,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, low heart rate variability."
+3,113,50,10,85,29.5,0.626,25,0,11331,98,32.4,85,1662,206,High,Patient is in stable condition with good vitals and activity.
+7,109,80,31,0,35.9,1.127,43,1,2190,49,28,64,2571,336,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed, low heart rate variability."
+2,112,68,22,94,34.1,0.315,26,0,2980,72,63.6,88,2010,363,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+3,99,80,11,64,19.3,0.284,30,0,4975,93,31,96,2852,282,Moderate,Patient is in stable condition with good vitals and activity.
+3,182,74,0,0,30.5,0.345,29,1,8102,77,68.8,79,1615,619,High,"Patient shows signs of elevated glucose levels, obesity observed."
+3,115,66,39,140,38.1,0.15,28,0,3184,52,36.8,108,2440,272,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+6,194,78,0,0,23.5,0.129,59,1,5327,70,29.1,80,1836,436,Moderate,"Patient shows signs of elevated glucose levels, low heart rate variability."
+4,129,60,12,231,27.5,0.527,31,0,5394,86,59.5,69,2380,245,Moderate,Patient is in stable condition with good vitals and activity.
+3,112,74,30,0,31.6,0.197,25,1,10319,75,52.9,64,2236,461,High,Patient shows signs of obesity observed.
+0,124,70,20,0,27.4,0.254,36,1,3816,84,44.9,95,2339,375,Low,Patient shows signs of sedentary lifestyle.
+13,152,90,33,29,26.8,0.731,43,1,7854,63,47.8,65,1646,365,Moderate,Patient shows signs of elevated glucose levels.
+2,112,75,32,0,35.7,0.148,21,0,8709,91,56,85,2846,569,High,Patient shows signs of obesity observed.
+1,157,72,21,168,25.6,0.123,24,0,2569,95,31.4,63,1942,253,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle."
+1,122,64,32,156,35.1,0.692,30,1,7442,54,69.8,98,2336,618,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+10,179,70,0,0,35.1,0.2,37,0,3895,68,68.7,98,2536,706,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+2,102,86,36,120,45.5,0.127,23,1,4733,47,52.5,109,2442,540,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+6,105,70,32,68,30.8,0.122,37,0,5863,44,30,94,1786,326,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+8,118,72,19,0,23.1,1.476,46,0,9455,68,54,60,2219,608,High,Patient is in stable condition with good vitals and activity.
+2,87,58,16,52,32.7,0.166,25,0,6014,86,23.6,83,2637,566,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+1,180,0,0,0,43.3,0.282,41,1,3686,43,21.5,95,1979,470,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed, low heart rate variability."
+12,106,80,0,0,23.6,0.137,44,0,5009,51,32.9,65,1521,578,Moderate,Patient shows signs of poor sleep quality.
+1,95,60,18,58,23.9,0.26,22,0,9806,84,43.1,100,2872,272,High,Patient is in stable condition with good vitals and activity.
+0,165,76,43,255,47.9,0.259,26,0,2154,41,63.4,105,2182,447,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+0,117,0,0,0,33.8,0.932,44,0,3409,66,56.4,103,2405,242,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+5,115,76,0,0,31.2,0.343,44,1,2784,70,57.1,90,1819,576,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+9,152,78,34,171,34.2,0.893,33,1,10096,90,41.3,79,1625,240,High,"Patient shows signs of elevated glucose levels, obesity observed."
+7,178,84,0,0,39.9,0.331,41,1,9560,90,37.3,83,1776,369,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,130,70,13,105,25.9,0.472,22,0,9343,75,38.6,84,2727,411,High,Patient is in stable condition with good vitals and activity.
+1,95,74,21,73,25.9,0.673,36,0,9206,75,69.4,95,1693,692,High,Patient is in stable condition with good vitals and activity.
+1,0,68,35,0,32,0.389,22,0,7596,65,22,80,2195,238,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+5,122,86,0,0,34.7,0.29,33,0,7801,82,63.4,89,2809,568,Moderate,Patient shows signs of obesity observed.
+8,95,72,0,0,36.8,0.485,57,0,4806,66,48.9,83,1556,350,Moderate,Patient shows signs of obesity observed.
+8,126,88,36,108,38.5,0.349,49,0,2537,44,41.9,103,2826,310,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+1,139,46,19,83,28.7,0.654,22,0,7986,59,56.3,101,2686,679,Moderate,Patient shows signs of poor sleep quality.
+3,116,0,0,0,23.5,0.187,23,0,3841,50,44.3,89,1518,635,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+3,99,62,19,74,21.8,0.279,26,0,10716,49,63.7,81,2893,246,High,Patient shows signs of poor sleep quality.
+5,0,80,32,0,41,0.346,37,1,8971,79,65,87,1763,774,High,Patient shows signs of obesity observed.
+4,92,80,0,0,42.2,0.237,29,0,7625,77,41.1,66,2293,565,Moderate,Patient shows signs of obesity observed.
+4,137,84,0,0,31.2,0.252,30,0,4950,45,33.8,94,1612,268,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,61,82,28,0,34.4,0.243,46,0,9992,47,49.6,87,2850,498,High,"Patient shows signs of poor sleep quality, obesity observed."
+1,90,62,12,43,27.2,0.58,24,0,6780,62,65.6,73,2041,495,Moderate,Patient is in stable condition with good vitals and activity.
+3,90,78,0,0,42.7,0.559,21,0,4368,86,30.5,69,2146,402,Moderate,Patient shows signs of obesity observed.
+9,165,88,0,0,30.4,0.302,49,1,8655,65,51.1,75,2078,260,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,125,50,40,167,33.3,0.962,28,1,10173,85,51.6,75,2588,513,High,Patient shows signs of obesity observed.
+13,129,0,30,0,39.9,0.569,44,1,6495,82,56.7,90,2815,360,Moderate,Patient shows signs of obesity observed.
+12,88,74,40,54,35.3,0.378,48,0,11163,51,26.6,101,1524,530,High,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+1,196,76,36,249,36.5,0.875,29,1,8002,65,55.8,84,1500,727,High,"Patient shows signs of elevated glucose levels, obesity observed."
+5,189,64,33,325,31.2,0.583,29,1,8614,52,65.5,72,2410,537,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+5,158,70,0,0,29.8,0.207,63,0,11358,79,29,65,1640,503,High,"Patient shows signs of elevated glucose levels, low heart rate variability."
+5,103,108,37,0,39.2,0.305,65,0,7919,57,31.9,103,2147,702,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+4,146,78,0,0,38.5,0.52,67,1,2853,64,68.6,68,1687,537,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+4,147,74,25,293,34.9,0.385,30,0,6146,72,29,104,2651,749,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+5,99,54,28,83,34,0.499,30,0,5769,86,62.7,95,1700,474,Moderate,Patient shows signs of obesity observed.
+6,124,72,0,0,27.6,0.368,29,1,2574,79,44.6,102,2650,363,Low,Patient shows signs of sedentary lifestyle.
+0,101,64,17,0,21,0.252,21,0,3148,99,32.4,79,1756,642,Low,Patient shows signs of sedentary lifestyle.
+3,81,86,16,66,27.5,0.306,22,0,8293,82,63.5,77,2046,518,High,Patient is in stable condition with good vitals and activity.
+1,133,102,28,140,32.8,0.234,45,1,8457,51,42.3,102,1693,788,High,"Patient shows signs of poor sleep quality, obesity observed."
+3,173,82,48,465,38.4,2.137,25,1,9509,83,45.7,80,2202,703,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,118,64,23,89,0,1.731,21,0,11907,75,38,63,2627,586,High,Patient is in stable condition with good vitals and activity.
+0,84,64,22,66,35.8,0.545,21,0,6777,87,49.6,109,2788,693,Moderate,Patient shows signs of obesity observed.
+2,105,58,40,94,34.9,0.225,25,0,5854,43,28.2,92,2301,689,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+2,122,52,43,158,36.2,0.816,28,0,4491,44,39.6,86,2441,272,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+12,140,82,43,325,39.2,0.528,58,1,5124,95,68.5,66,2907,708,Moderate,Patient shows signs of obesity observed.
+0,98,82,15,84,25.2,0.299,22,0,7691,76,32.9,65,2783,589,Moderate,Patient is in stable condition with good vitals and activity.
+1,87,60,37,75,37.2,0.509,22,0,5051,47,52.8,74,1913,494,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+4,156,75,0,0,48.3,0.238,32,1,2004,81,36.3,77,2881,568,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+0,93,100,39,72,43.4,1.021,35,0,7222,88,58.7,91,2598,748,Moderate,Patient shows signs of obesity observed.
+1,107,72,30,82,30.8,0.821,24,0,7315,67,26.5,70,2878,767,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,105,68,22,0,20,0.236,22,0,6869,70,68.5,79,2409,386,Moderate,Patient is in stable condition with good vitals and activity.
+1,109,60,8,182,25.4,0.947,21,0,2876,97,42.7,83,1687,644,Low,Patient shows signs of sedentary lifestyle.
+1,90,62,18,59,25.1,1.268,25,0,11183,48,31.8,74,2813,769,High,Patient shows signs of poor sleep quality.
+1,125,70,24,110,24.3,0.221,25,0,9027,93,23.7,107,1544,562,High,Patient shows signs of low heart rate variability.
+1,119,54,13,50,22.3,0.205,24,0,6142,90,28.5,66,1582,322,Moderate,Patient shows signs of low heart rate variability.
+5,116,74,29,0,32.3,0.66,35,1,8966,68,46,80,2646,387,High,Patient shows signs of obesity observed.
+8,105,100,36,0,43.3,0.239,45,1,9079,53,36.9,101,1857,619,High,"Patient shows signs of poor sleep quality, obesity observed."
+5,144,82,26,285,32,0.452,58,1,9987,79,61.4,85,2589,451,High,"Patient shows signs of elevated glucose levels, obesity observed."
+3,100,68,23,81,31.6,0.949,28,0,8799,80,41.5,103,2435,748,High,Patient shows signs of obesity observed.
+1,100,66,29,196,32,0.444,42,0,6465,61,32.4,73,1874,534,Moderate,Patient shows signs of obesity observed.
+5,166,76,0,0,45.7,0.34,27,1,2635,50,50.9,96,1661,291,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+1,131,64,14,415,23.7,0.389,21,0,3693,62,55.3,80,2903,729,Low,Patient shows signs of sedentary lifestyle.
+4,116,72,12,87,22.1,0.463,37,0,11874,40,28.4,77,2881,262,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+4,158,78,0,0,32.9,0.803,31,1,6752,85,28.4,64,2711,711,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+2,127,58,24,275,27.7,1.6,25,0,10311,76,21.8,62,1821,338,High,Patient shows signs of low heart rate variability.
+3,96,56,34,115,24.7,0.944,39,0,2830,60,56.8,82,1949,384,Low,Patient shows signs of sedentary lifestyle.
+0,131,66,40,0,34.3,0.196,22,1,7177,65,53.2,85,2997,404,Moderate,Patient shows signs of obesity observed.
+3,82,70,0,0,21.1,0.389,25,0,11561,85,43.7,96,2536,413,High,Patient is in stable condition with good vitals and activity.
+3,193,70,31,0,34.9,0.241,25,1,10932,75,62.2,83,1683,455,High,"Patient shows signs of elevated glucose levels, obesity observed."
+4,95,64,0,0,32,0.161,31,1,10308,93,60.3,108,1610,334,High,Patient shows signs of obesity observed.
+6,137,61,0,0,24.2,0.151,55,0,7949,62,49.3,78,2007,772,Moderate,Patient is in stable condition with good vitals and activity.
+5,136,84,41,88,35,0.286,35,1,4838,96,63.4,84,2813,287,Moderate,Patient shows signs of obesity observed.
+9,72,78,25,0,31.6,0.28,38,0,3150,40,30.3,80,1794,406,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+5,168,64,0,0,32.9,0.135,41,1,9560,93,25.6,71,2974,328,High,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+2,123,48,32,165,42.1,0.52,26,0,3931,94,33.5,100,2403,202,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+4,115,72,0,0,28.9,0.376,46,1,11204,90,22.9,92,2738,320,High,Patient shows signs of low heart rate variability.
+0,101,62,0,0,21.9,0.336,25,0,3664,79,46.6,109,2473,584,Low,Patient shows signs of sedentary lifestyle.
+8,197,74,0,0,25.9,1.191,39,1,3081,54,66.8,63,2131,237,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle."
+1,172,68,49,579,42.4,0.702,28,1,2512,60,22,101,2550,540,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed, low heart rate variability."
+6,102,90,39,0,35.7,0.674,28,0,9805,86,26.1,66,2232,220,High,"Patient shows signs of obesity observed, low heart rate variability."
+1,112,72,30,176,34.4,0.528,25,0,7237,48,42.6,81,2754,441,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+1,143,84,23,310,42.4,1.076,22,0,2559,92,66.7,92,1820,654,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+1,143,74,22,61,26.2,0.256,21,0,5672,48,35.8,76,2412,502,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality."
+0,138,60,35,167,34.6,0.534,21,1,9404,49,45.4,83,2756,795,High,"Patient shows signs of poor sleep quality, obesity observed."
+3,173,84,33,474,35.7,0.258,22,1,5343,91,22.1,93,1936,794,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+1,97,68,21,0,27.2,1.095,22,0,6070,96,27.4,87,2280,268,Moderate,Patient shows signs of low heart rate variability.
+4,144,82,32,0,38.5,0.554,37,1,11662,92,69.3,102,2926,328,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,83,68,0,0,18.2,0.624,27,0,2580,65,68.3,100,2576,395,Low,Patient shows signs of sedentary lifestyle.
+3,129,64,29,115,26.4,0.219,28,1,9004,80,20.2,98,2836,339,High,Patient shows signs of low heart rate variability.
+1,119,88,41,170,45.3,0.507,26,0,10130,74,67.6,81,2804,643,High,Patient shows signs of obesity observed.
+2,94,68,18,76,26,0.561,21,0,5147,91,52,108,2225,482,Moderate,Patient is in stable condition with good vitals and activity.
+0,102,64,46,78,40.6,0.496,21,0,6249,64,63.4,76,1530,511,Moderate,Patient shows signs of obesity observed.
+2,115,64,22,0,30.8,0.421,21,0,3679,65,42.7,93,1836,734,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+8,151,78,32,210,42.9,0.516,36,1,5506,50,45.8,65,1682,476,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+4,184,78,39,277,37,0.264,31,1,9253,77,44.4,105,2546,260,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,94,0,0,0,0,0.256,25,0,4744,41,53.3,65,2043,518,Moderate,Patient shows signs of poor sleep quality.
+1,181,64,30,180,34.1,0.328,38,1,11435,46,27,93,2969,251,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+0,135,94,46,145,40.6,0.284,26,0,7188,57,21.5,60,2597,352,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+1,95,82,25,180,35,0.233,43,1,4141,66,35.4,69,2533,510,Moderate,Patient shows signs of obesity observed.
+2,99,0,0,0,22.2,0.108,23,0,8617,73,55.2,80,2979,743,High,Patient is in stable condition with good vitals and activity.
+3,89,74,16,85,30.4,0.551,38,0,4479,66,30.1,64,2159,766,Moderate,Patient shows signs of obesity observed.
+1,80,74,11,60,30,0.527,22,0,8484,56,53.7,61,1659,588,High,Patient shows signs of poor sleep quality.
+2,139,75,0,0,25.6,0.167,29,0,11827,82,68.5,81,2537,747,High,Patient is in stable condition with good vitals and activity.
+1,90,68,8,0,24.5,1.138,36,0,9421,98,24.7,107,2701,376,High,Patient shows signs of low heart rate variability.
+0,141,0,0,0,42.4,0.205,29,1,11949,83,53.6,61,1911,561,High,"Patient shows signs of elevated glucose levels, obesity observed."
+12,140,85,33,0,37.4,0.244,41,0,6452,98,42.2,69,2511,513,Moderate,Patient shows signs of obesity observed.
+5,147,75,0,0,29.9,0.434,28,0,7881,90,63.4,93,1552,296,Moderate,Patient shows signs of elevated glucose levels.
+1,97,70,15,0,18.2,0.147,21,0,8665,93,28.9,75,1907,412,High,Patient shows signs of low heart rate variability.
+6,107,88,0,0,36.8,0.727,31,0,4849,63,54.6,107,2346,336,Moderate,Patient shows signs of obesity observed.
+0,189,104,25,0,34.3,0.435,41,1,9390,64,61.9,98,2545,205,High,"Patient shows signs of elevated glucose levels, obesity observed."
+2,83,66,23,50,32.2,0.497,22,0,8905,46,67.2,81,2553,308,High,"Patient shows signs of poor sleep quality, obesity observed."
+4,117,64,27,120,33.2,0.23,24,0,4489,91,54.2,71,2202,746,Moderate,Patient shows signs of obesity observed.
+8,108,70,0,0,30.5,0.955,33,1,11823,45,44.9,83,1759,238,High,"Patient shows signs of poor sleep quality, obesity observed."
+4,117,62,12,0,29.7,0.38,30,1,11207,92,50.9,106,2728,624,High,Patient is in stable condition with good vitals and activity.
+0,180,78,63,14,59.4,2.42,25,1,11540,63,63.4,99,2582,460,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,100,72,12,70,25.3,0.658,28,0,6611,72,48.5,97,2994,625,Moderate,Patient is in stable condition with good vitals and activity.
+0,95,80,45,92,36.5,0.33,26,0,4839,88,21.5,69,2275,286,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,104,64,37,64,33.6,0.51,22,1,10527,68,66.5,94,2989,664,High,Patient shows signs of obesity observed.
+0,120,74,18,63,30.5,0.285,26,0,7878,82,54.5,108,2535,275,Moderate,Patient shows signs of obesity observed.
+1,82,64,13,95,21.2,0.415,23,0,11087,61,53.8,91,2813,670,High,Patient is in stable condition with good vitals and activity.
+2,134,70,0,0,28.9,0.542,23,1,8303,65,30.8,66,2349,613,High,Patient is in stable condition with good vitals and activity.
+0,91,68,32,210,39.9,0.381,25,0,2851,67,52.9,80,1853,656,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+2,119,0,0,0,19.6,0.832,72,0,3687,89,39.7,79,2598,484,Low,Patient shows signs of sedentary lifestyle.
+2,100,54,28,105,37.8,0.498,24,0,8833,60,52.6,85,2372,438,High,Patient shows signs of obesity observed.
+14,175,62,30,0,33.6,0.212,38,1,4427,88,25.3,63,2964,798,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+1,135,54,0,0,26.7,0.687,62,0,11760,46,52.9,105,2490,757,High,Patient shows signs of poor sleep quality.
+5,86,68,28,71,30.2,0.364,24,0,6000,56,70,81,2764,571,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+10,148,84,48,237,37.6,1.001,51,1,7052,59,22.4,74,2517,694,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+9,134,74,33,60,25.9,0.46,81,0,4738,80,68.9,99,2677,244,Moderate,Patient is in stable condition with good vitals and activity.
+9,120,72,22,56,20.8,0.733,48,0,7732,88,40.3,80,2619,600,Moderate,Patient is in stable condition with good vitals and activity.
+1,71,62,0,0,21.8,0.416,26,0,7387,59,63.5,74,1793,446,Moderate,Patient shows signs of poor sleep quality.
+8,74,70,40,49,35.3,0.705,39,0,10002,93,59.1,81,1708,796,High,Patient shows signs of obesity observed.
+5,88,78,30,0,27.6,0.258,37,0,7536,61,48.4,87,2866,649,Moderate,Patient is in stable condition with good vitals and activity.
+10,115,98,0,0,24,1.022,34,0,5913,67,56.9,73,2611,684,Moderate,Patient is in stable condition with good vitals and activity.
+0,124,56,13,105,21.8,0.452,21,0,3066,79,63.9,86,2317,217,Low,Patient shows signs of sedentary lifestyle.
+0,74,52,10,36,27.8,0.269,22,0,9723,88,40.2,100,1889,488,High,Patient is in stable condition with good vitals and activity.
+0,97,64,36,100,36.8,0.6,25,0,6380,46,36.4,99,1824,613,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+8,120,0,0,0,30,0.183,38,1,6107,40,53.4,87,2439,434,Moderate,Patient shows signs of poor sleep quality.
+6,154,78,41,140,46.1,0.571,27,0,7726,71,60.4,85,2388,615,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+1,144,82,40,0,41.3,0.607,28,0,5373,52,58.1,108,2680,698,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+0,137,70,38,0,33.2,0.17,22,0,10945,69,59.9,61,2167,314,High,Patient shows signs of obesity observed.
+0,119,66,27,0,38.8,0.259,22,0,4082,62,41.8,84,2132,433,Moderate,Patient shows signs of obesity observed.
+7,136,90,0,0,29.9,0.21,50,0,10967,90,60.9,62,2076,739,High,Patient is in stable condition with good vitals and activity.
+4,114,64,0,0,28.9,0.126,24,0,8748,98,26,67,1636,210,High,Patient shows signs of low heart rate variability.
+0,137,84,27,0,27.3,0.231,59,0,11817,95,47.2,103,1927,405,High,Patient is in stable condition with good vitals and activity.
+2,105,80,45,191,33.7,0.711,29,1,2417,58,20.3,92,2975,446,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed, low heart rate variability."
+7,114,76,17,110,23.8,0.466,31,0,10306,71,36.2,101,2111,758,High,Patient is in stable condition with good vitals and activity.
+8,126,74,38,75,25.9,0.162,39,0,10808,69,38.3,94,2410,326,High,Patient is in stable condition with good vitals and activity.
+4,132,86,31,0,28,0.419,63,0,5974,68,39.8,65,2318,346,Moderate,Patient is in stable condition with good vitals and activity.
+3,158,70,30,328,35.5,0.344,35,1,5267,88,54.8,98,1640,317,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+0,123,88,37,0,35.2,0.197,29,0,2825,84,39.4,82,2606,581,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+4,85,58,22,49,27.8,0.306,28,0,9668,68,42.4,84,1676,611,High,Patient is in stable condition with good vitals and activity.
+0,84,82,31,125,38.2,0.233,23,0,7745,69,31.9,109,1697,783,Moderate,Patient shows signs of obesity observed.
+0,145,0,0,0,44.2,0.63,31,1,11708,55,38.7,102,2123,562,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+0,135,68,42,250,42.3,0.365,24,1,2412,79,31.4,78,2190,708,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+1,139,62,41,480,40.7,0.536,21,0,9543,58,23.7,64,2944,336,High,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+0,173,78,32,265,46.5,1.159,58,0,9587,57,50.2,70,1900,374,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+4,99,72,17,0,25.6,0.294,28,0,2728,40,53.4,71,1970,488,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+8,194,80,0,0,26.1,0.551,67,0,9164,53,51,69,1717,680,High,"Patient shows signs of elevated glucose levels, poor sleep quality."
+2,83,65,28,66,36.8,0.629,24,0,10867,90,43.2,67,2428,218,High,Patient shows signs of obesity observed.
+2,89,90,30,0,33.5,0.292,42,0,7988,86,39,83,2131,394,Moderate,Patient shows signs of obesity observed.
+4,99,68,38,0,32.8,0.145,33,0,4504,89,63.2,87,2450,529,Moderate,Patient shows signs of obesity observed.
+4,125,70,18,122,28.9,1.144,45,1,4967,41,46,100,2405,374,Moderate,Patient shows signs of poor sleep quality.
+3,80,0,0,0,0,0.174,22,0,4786,93,44,95,1674,648,Moderate,Patient is in stable condition with good vitals and activity.
+6,166,74,0,0,26.6,0.304,66,0,3122,67,21.3,96,1522,553,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, low heart rate variability."
+5,110,68,0,0,26,0.292,30,0,6079,88,37.1,80,1734,698,Moderate,Patient is in stable condition with good vitals and activity.
+2,81,72,15,76,30.1,0.547,25,0,3571,89,39,67,2536,340,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+7,195,70,33,145,25.1,0.163,55,1,7073,69,39.9,68,2624,292,Moderate,Patient shows signs of elevated glucose levels.
+6,154,74,32,193,29.3,0.839,39,0,7104,77,49,106,2428,438,Moderate,Patient shows signs of elevated glucose levels.
+2,117,90,19,71,25.2,0.313,21,0,4143,90,46.7,74,2022,404,Moderate,Patient is in stable condition with good vitals and activity.
+3,84,72,32,0,37.2,0.267,28,0,11879,43,50.4,107,2975,759,High,"Patient shows signs of poor sleep quality, obesity observed."
+6,0,68,41,0,39,0.727,41,1,8806,40,58.2,105,1930,632,High,"Patient shows signs of poor sleep quality, obesity observed."
+7,94,64,25,79,33.3,0.738,41,0,9357,47,60.6,99,2292,444,High,"Patient shows signs of poor sleep quality, obesity observed."
+3,96,78,39,0,37.3,0.238,40,0,5440,68,55.9,77,2032,516,Moderate,Patient shows signs of obesity observed.
+10,75,82,0,0,33.3,0.263,38,0,5766,94,67.8,101,2478,494,Moderate,Patient shows signs of obesity observed.
+0,180,90,26,90,36.5,0.314,35,1,7644,78,20.9,79,2816,481,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+1,130,60,23,170,28.6,0.692,21,0,4914,42,29.8,65,2309,216,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+2,84,50,23,76,30.4,0.968,21,0,6968,71,20.4,71,2412,270,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+8,120,78,0,0,25,0.409,64,0,7917,49,52.4,61,2624,468,Moderate,Patient shows signs of poor sleep quality.
+12,84,72,31,0,29.7,0.297,46,1,10787,49,64.9,66,2827,524,High,Patient shows signs of poor sleep quality.
+0,139,62,17,210,22.1,0.207,21,0,2728,58,32.2,75,2370,504,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+9,91,68,0,0,24.2,0.2,58,0,3365,85,66.4,62,2039,650,Low,Patient shows signs of sedentary lifestyle.
+2,91,62,0,0,27.3,0.525,22,0,6492,73,23,104,2523,206,Moderate,Patient shows signs of low heart rate variability.
+3,99,54,19,86,25.6,0.154,24,0,2698,99,66.7,62,2878,513,Low,Patient shows signs of sedentary lifestyle.
+3,163,70,18,105,31.6,0.268,28,1,9186,72,37.6,86,2826,302,High,"Patient shows signs of elevated glucose levels, obesity observed."
+9,145,88,34,165,30.3,0.771,53,1,2395,62,25.1,109,1726,392,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed, low heart rate variability."
+7,125,86,0,0,37.6,0.304,51,0,9400,94,44.3,102,2759,773,High,Patient shows signs of obesity observed.
+13,76,60,0,0,32.8,0.18,41,0,10082,67,32.8,99,2372,728,High,Patient shows signs of obesity observed.
+6,129,90,7,326,19.6,0.582,60,0,6171,71,34.2,97,2391,370,Moderate,Patient is in stable condition with good vitals and activity.
+2,68,70,32,66,25,0.187,25,0,6360,89,35.4,92,2978,736,Moderate,Patient is in stable condition with good vitals and activity.
+3,124,80,33,130,33.2,0.305,26,0,4502,46,60.2,87,2536,450,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+6,114,0,0,0,0,0.189,26,0,2717,68,47,60,1709,586,Low,Patient shows signs of sedentary lifestyle.
+9,130,70,0,0,34.2,0.652,45,1,4782,47,35.6,67,2240,406,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,125,58,0,0,31.6,0.151,24,0,6946,40,50.5,96,1896,740,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,87,60,18,0,21.8,0.444,21,0,7486,96,55.8,91,2623,615,Moderate,Patient is in stable condition with good vitals and activity.
+1,97,64,19,82,18.2,0.299,21,0,10335,94,33.6,107,1530,579,High,Patient is in stable condition with good vitals and activity.
+3,116,74,15,105,26.3,0.107,24,0,6980,42,40.7,102,2397,343,Moderate,Patient shows signs of poor sleep quality.
+0,117,66,31,188,30.8,0.493,22,0,9266,63,26.1,96,2148,224,High,"Patient shows signs of obesity observed, low heart rate variability."
+0,111,65,0,0,24.6,0.66,31,0,6491,62,29.1,63,1828,272,Moderate,Patient shows signs of low heart rate variability.
+2,122,60,18,106,29.8,0.717,22,0,9192,98,54.1,89,2689,292,High,Patient is in stable condition with good vitals and activity.
+0,107,76,0,0,45.3,0.686,24,0,7588,47,29.1,65,2982,704,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+1,86,66,52,65,41.3,0.917,29,0,9651,93,46.3,105,2451,797,High,Patient shows signs of obesity observed.
+6,91,0,0,0,29.8,0.501,31,0,5636,96,55.5,78,2623,535,Moderate,Patient is in stable condition with good vitals and activity.
+1,77,56,30,56,33.3,1.251,24,0,3167,86,25.3,91,2120,624,Low,"Patient shows signs of sedentary lifestyle, obesity observed, low heart rate variability."
+4,132,0,0,0,32.9,0.302,23,1,3062,76,48.4,68,2696,698,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+0,105,90,0,0,29.6,0.197,46,0,4156,42,32.8,71,1661,563,Moderate,Patient shows signs of poor sleep quality.
+0,57,60,0,0,21.7,0.735,67,0,9860,90,68.1,70,2275,398,High,Patient is in stable condition with good vitals and activity.
+0,127,80,37,210,36.3,0.804,23,0,7161,72,44.2,105,2786,612,Moderate,Patient shows signs of obesity observed.
+3,129,92,49,155,36.4,0.968,32,1,7305,67,60.3,75,1773,538,Moderate,Patient shows signs of obesity observed.
+8,100,74,40,215,39.4,0.661,43,1,8541,86,47.5,60,2526,628,High,Patient shows signs of obesity observed.
+3,128,72,25,190,32.4,0.549,27,1,6729,47,22.2,104,2551,338,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+10,90,85,32,0,34.9,0.825,56,1,11348,73,51.7,80,1825,741,High,Patient shows signs of obesity observed.
+4,84,90,23,56,39.5,0.159,25,0,9330,74,67.6,89,2439,256,High,Patient shows signs of obesity observed.
+1,88,78,29,76,32,0.365,29,0,7334,71,50.1,72,2672,431,Moderate,Patient shows signs of obesity observed.
+8,186,90,35,225,34.5,0.423,37,1,10924,63,61,93,2039,634,High,"Patient shows signs of elevated glucose levels, obesity observed."
+5,187,76,27,207,43.6,1.034,53,1,6330,53,64.2,63,1987,583,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+4,131,68,21,166,33.1,0.16,28,0,10010,71,31.4,87,2321,759,High,Patient shows signs of obesity observed.
+1,164,82,43,67,32.8,0.341,50,0,8801,95,30.6,97,2961,393,High,"Patient shows signs of elevated glucose levels, obesity observed."
+4,189,110,31,0,28.5,0.68,37,0,6846,85,50.5,90,2588,733,Moderate,Patient shows signs of elevated glucose levels.
+1,116,70,28,0,27.4,0.204,21,0,8731,82,40.6,86,1855,717,High,Patient is in stable condition with good vitals and activity.
+3,84,68,30,106,31.9,0.591,25,0,9241,55,62,64,2775,384,High,"Patient shows signs of poor sleep quality, obesity observed."
+6,114,88,0,0,27.8,0.247,66,0,2953,43,65,84,1734,491,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+1,88,62,24,44,29.9,0.422,23,0,4539,91,37.7,62,1726,534,Moderate,Patient is in stable condition with good vitals and activity.
+1,84,64,23,115,36.9,0.471,28,0,9056,76,31.8,92,2836,315,High,Patient shows signs of obesity observed.
+7,124,70,33,215,25.5,0.161,37,0,3542,93,59,63,1548,248,Low,Patient shows signs of sedentary lifestyle.
+1,97,70,40,0,38.1,0.218,30,0,7293,60,33.7,84,1617,281,Moderate,Patient shows signs of obesity observed.
+8,110,76,0,0,27.8,0.237,58,0,3191,53,61.1,79,1553,532,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+11,103,68,40,0,46.2,0.126,42,0,8313,70,41.2,93,2064,756,High,Patient shows signs of obesity observed.
+11,85,74,0,0,30.1,0.3,35,0,8938,94,53.4,85,2567,534,High,Patient shows signs of obesity observed.
+6,125,76,0,0,33.8,0.121,54,1,4681,87,24.8,64,1552,731,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+0,198,66,32,274,41.3,0.502,28,1,11409,57,51.2,94,2057,420,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+1,87,68,34,77,37.6,0.401,24,0,3540,46,42.6,87,2625,522,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+6,99,60,19,54,26.9,0.497,32,0,8172,49,49.3,88,2367,202,High,Patient shows signs of poor sleep quality.
+0,91,80,0,0,32.4,0.601,27,0,7541,46,28.4,68,1897,405,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+2,95,54,14,88,26.1,0.748,22,0,11580,72,56.8,97,2661,239,High,Patient is in stable condition with good vitals and activity.
+1,99,72,30,18,38.6,0.412,21,0,3365,62,63.1,109,2174,258,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+6,92,62,32,126,32,0.085,46,0,10691,60,30.8,65,1886,773,High,Patient shows signs of obesity observed.
+4,154,72,29,126,31.3,0.338,37,0,11872,58,24.8,78,1610,706,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+0,121,66,30,165,34.3,0.203,33,1,10702,87,21.2,103,2113,771,High,"Patient shows signs of obesity observed, low heart rate variability."
+3,78,70,0,0,32.5,0.27,39,0,9494,58,52.1,70,1516,321,High,"Patient shows signs of poor sleep quality, obesity observed."
+2,130,96,0,0,22.6,0.268,21,0,6312,75,50.4,61,2705,678,Moderate,Patient is in stable condition with good vitals and activity.
+3,111,58,31,44,29.5,0.43,22,0,3324,68,47.3,106,2383,295,Low,Patient shows signs of sedentary lifestyle.
+2,98,60,17,120,34.7,0.198,22,0,11347,99,31.6,103,2040,613,High,Patient shows signs of obesity observed.
+1,143,86,30,330,30.1,0.892,23,0,5141,57,39.5,103,1670,434,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+1,119,44,47,63,35.5,0.28,25,0,9419,41,49.7,68,1908,261,High,"Patient shows signs of poor sleep quality, obesity observed."
+6,108,44,20,130,24,0.813,35,0,5486,40,44.8,80,2239,455,Moderate,Patient shows signs of poor sleep quality.
+2,118,80,0,0,42.9,0.693,21,1,3810,86,69.4,83,2901,760,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+10,133,68,0,0,27,0.245,36,0,8588,44,26.8,93,2711,547,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+2,197,70,99,0,34.7,0.575,62,1,4923,59,54.8,81,2357,323,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+0,151,90,46,0,42.1,0.371,21,1,7301,50,40.2,62,1729,681,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+6,109,60,27,0,25,0.206,27,0,6186,81,41.4,71,1618,516,Moderate,Patient is in stable condition with good vitals and activity.
+12,121,78,17,0,26.5,0.259,62,0,10905,41,55.9,87,2679,703,High,Patient shows signs of poor sleep quality.
+8,100,76,0,0,38.7,0.19,42,0,7977,42,54.6,89,2283,247,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+8,124,76,24,600,28.7,0.687,52,1,6268,62,69.6,85,1964,608,Moderate,Patient is in stable condition with good vitals and activity.
+1,93,56,11,0,22.5,0.417,22,0,6748,94,26.4,107,1603,335,Moderate,Patient shows signs of low heart rate variability.
+8,143,66,0,0,34.9,0.129,41,1,6849,51,25.2,80,2197,400,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+6,103,66,0,0,24.3,0.249,29,0,11435,59,56.2,87,1674,449,High,Patient shows signs of poor sleep quality.
+3,176,86,27,156,33.3,1.154,52,1,5709,44,48.9,85,2244,513,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+0,73,0,0,0,21.1,0.342,25,0,11273,76,33.7,92,2944,567,High,Patient is in stable condition with good vitals and activity.
+11,111,84,40,0,46.8,0.925,45,1,8619,77,24,80,2657,628,High,"Patient shows signs of obesity observed, low heart rate variability."
+2,112,78,50,140,39.4,0.175,24,0,10647,69,24.3,94,2914,679,High,"Patient shows signs of obesity observed, low heart rate variability."
+3,132,80,0,0,34.4,0.402,44,1,11086,48,64.7,93,2164,513,High,"Patient shows signs of poor sleep quality, obesity observed."
+2,82,52,22,115,28.5,1.699,25,0,11576,73,29.6,100,1532,699,High,Patient shows signs of low heart rate variability.
+6,123,72,45,230,33.6,0.733,34,0,5072,92,36.2,106,1554,554,Moderate,Patient shows signs of obesity observed.
+0,188,82,14,185,32,0.682,22,1,8530,83,31.3,77,2018,684,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,67,76,0,0,45.3,0.194,46,0,2504,74,37.7,70,2255,410,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+1,89,24,19,25,27.8,0.559,21,0,3214,91,23.5,82,1511,243,Low,"Patient shows signs of sedentary lifestyle, low heart rate variability."
+1,173,74,0,0,36.8,0.088,38,1,3531,97,46,107,2219,740,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+1,109,38,18,120,23.1,0.407,26,0,9576,61,23.4,81,2054,770,High,Patient shows signs of low heart rate variability.
+1,108,88,19,0,27.1,0.4,24,0,2823,83,60,76,1872,782,Low,Patient shows signs of sedentary lifestyle.
+6,96,0,0,0,23.7,0.19,28,0,2928,63,31.7,64,1983,291,Low,Patient shows signs of sedentary lifestyle.
+1,124,74,36,0,27.8,0.1,30,0,7029,56,47,103,2472,464,Moderate,Patient shows signs of poor sleep quality.
+7,150,78,29,126,35.2,0.692,54,1,2133,49,64,70,2751,419,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+4,183,0,0,0,28.4,0.212,36,1,4105,69,52.5,89,2122,641,Moderate,Patient shows signs of elevated glucose levels.
+1,124,60,32,0,35.8,0.514,21,0,5627,95,46.6,74,1806,600,Moderate,Patient shows signs of obesity observed.
+1,181,78,42,293,40,1.258,22,1,8316,98,36.2,86,1956,599,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,92,62,25,41,19.5,0.482,25,0,3852,85,36.7,94,1659,775,Low,Patient shows signs of sedentary lifestyle.
+0,152,82,39,272,41.5,0.27,27,0,6910,62,53.5,92,1830,689,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+1,111,62,13,182,24,0.138,23,0,6175,71,69.7,79,2275,684,Moderate,Patient is in stable condition with good vitals and activity.
+3,106,54,21,158,30.9,0.292,24,0,7348,56,53.1,75,1724,669,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+3,174,58,22,194,32.9,0.593,36,1,11442,89,47.9,93,2482,773,High,"Patient shows signs of elevated glucose levels, obesity observed."
+7,168,88,42,321,38.2,0.787,40,1,8190,90,56.5,61,2228,644,High,"Patient shows signs of elevated glucose levels, obesity observed."
+6,105,80,28,0,32.5,0.878,26,0,3256,56,43.3,94,2979,468,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+11,138,74,26,144,36.1,0.557,50,1,5376,53,23,99,2568,466,Moderate,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+3,106,72,0,0,25.8,0.207,27,0,7645,48,48.1,87,2737,253,Moderate,Patient shows signs of poor sleep quality.
+6,117,96,0,0,28.7,0.157,30,0,5486,79,67.9,106,2582,727,Moderate,Patient is in stable condition with good vitals and activity.
+2,68,62,13,15,20.1,0.257,23,0,5584,41,28.8,98,2143,719,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+9,112,82,24,0,28.2,1.282,50,1,11588,84,54.5,65,2115,258,High,Patient is in stable condition with good vitals and activity.
+0,119,0,0,0,32.4,0.141,24,1,10053,64,30,68,1694,239,High,Patient shows signs of obesity observed.
+2,112,86,42,160,38.4,0.246,28,0,5330,78,46.8,79,1988,436,Moderate,Patient shows signs of obesity observed.
+2,92,76,20,0,24.2,1.698,28,0,4703,48,24.8,60,1656,585,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+6,183,94,0,0,40.8,1.461,45,0,10662,93,42.5,67,2109,499,High,"Patient shows signs of elevated glucose levels, obesity observed."
+0,94,70,27,115,43.5,0.347,21,0,10120,61,57.8,82,2749,594,High,Patient shows signs of obesity observed.
+2,108,64,0,0,30.8,0.158,21,0,9114,82,37.4,62,1911,406,High,Patient shows signs of obesity observed.
+4,90,88,47,54,37.7,0.362,29,0,3353,85,53.2,63,2728,535,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+0,125,68,0,0,24.7,0.206,21,0,7063,43,59.8,84,2602,792,Moderate,Patient shows signs of poor sleep quality.
+0,132,78,0,0,32.4,0.393,21,0,10549,65,66.4,106,2647,713,High,Patient shows signs of obesity observed.
+5,128,80,0,0,34.6,0.144,45,0,9575,97,31.7,97,1970,377,High,Patient shows signs of obesity observed.
+4,94,65,22,0,24.7,0.148,21,0,2667,68,40,74,2741,595,Low,Patient shows signs of sedentary lifestyle.
+7,114,64,0,0,27.4,0.732,34,1,6468,84,27.6,80,2015,570,Moderate,Patient shows signs of low heart rate variability.
+0,102,78,40,90,34.5,0.238,24,0,11337,73,69.6,94,2627,517,High,Patient shows signs of obesity observed.
+2,111,60,0,0,26.2,0.343,23,0,8819,62,66.4,105,1892,568,High,Patient is in stable condition with good vitals and activity.
+1,128,82,17,183,27.5,0.115,22,0,5719,76,47,73,2130,583,Moderate,Patient is in stable condition with good vitals and activity.
+10,92,62,0,0,25.9,0.167,31,0,4745,50,62.1,95,2107,261,Moderate,Patient shows signs of poor sleep quality.
+13,104,72,0,0,31.2,0.465,38,1,9483,45,46,71,2479,704,High,"Patient shows signs of poor sleep quality, obesity observed."
+5,104,74,0,0,28.8,0.153,48,0,2539,57,51.2,76,1933,438,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+2,94,76,18,66,31.6,0.649,23,0,6964,60,24.5,98,2854,394,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+7,97,76,32,91,40.9,0.871,32,1,6835,81,57.8,68,2666,421,Moderate,Patient shows signs of obesity observed.
+1,100,74,12,46,19.5,0.149,28,0,5775,75,26.4,94,2039,260,Moderate,Patient shows signs of low heart rate variability.
+0,102,86,17,105,29.3,0.695,27,0,8042,80,61.3,72,1777,328,High,Patient is in stable condition with good vitals and activity.
+4,128,70,0,0,34.3,0.303,24,0,9102,77,59.1,74,1732,355,High,Patient shows signs of obesity observed.
+6,147,80,0,0,29.5,0.178,50,1,9312,73,55.4,77,2613,577,High,Patient shows signs of elevated glucose levels.
+4,90,0,0,0,28,0.61,31,0,7320,56,21.8,92,2722,785,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+3,103,72,30,152,27.6,0.73,27,0,8132,76,35.2,65,1861,636,High,Patient is in stable condition with good vitals and activity.
+2,157,74,35,440,39.4,0.134,30,0,9891,64,33.2,86,2964,406,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,167,74,17,144,23.4,0.447,33,1,4779,77,38,82,1525,587,Moderate,Patient shows signs of elevated glucose levels.
+0,179,50,36,159,37.8,0.455,22,1,2924,97,24.4,86,2548,679,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed, low heart rate variability."
+11,136,84,35,130,28.3,0.26,42,1,3581,51,66.8,93,2917,539,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle."
+0,107,60,25,0,26.4,0.133,23,0,9714,62,47.7,105,2006,539,High,Patient is in stable condition with good vitals and activity.
+1,91,54,25,100,25.2,0.234,23,0,5324,92,35.3,97,2824,403,Moderate,Patient is in stable condition with good vitals and activity.
+1,117,60,23,106,33.8,0.466,27,0,7713,81,39.8,73,2862,360,Moderate,Patient shows signs of obesity observed.
+5,123,74,40,77,34.1,0.269,28,0,9026,61,42.4,95,1766,739,High,Patient shows signs of obesity observed.
+2,120,54,0,0,26.8,0.455,27,0,2255,60,50,67,1960,591,Low,Patient shows signs of sedentary lifestyle.
+1,106,70,28,135,34.2,0.142,22,0,6804,66,45.8,94,1955,774,Moderate,Patient shows signs of obesity observed.
+2,155,52,27,540,38.7,0.24,25,1,3838,96,66,78,2883,733,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+2,101,58,35,90,21.8,0.155,22,0,2009,70,44.8,89,2591,269,Low,Patient shows signs of sedentary lifestyle.
+1,120,80,48,200,38.9,1.162,41,0,4871,45,69.6,73,2506,604,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+11,127,106,0,0,39,0.19,51,0,10989,66,62.6,79,2362,790,High,Patient shows signs of obesity observed.
+3,80,82,31,70,34.2,1.292,27,1,9409,79,30.4,108,2935,716,High,Patient shows signs of obesity observed.
+10,162,84,0,0,27.7,0.182,54,0,9418,73,66.5,84,1990,319,High,Patient shows signs of elevated glucose levels.
+1,199,76,43,0,42.9,1.394,22,1,7124,51,25.8,99,2572,416,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed, low heart rate variability."
+8,167,106,46,231,37.6,0.165,43,1,3015,84,60.9,83,2063,255,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+9,145,80,46,130,37.9,0.637,40,1,4193,96,39,73,2625,565,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+6,115,60,39,0,33.7,0.245,40,1,10415,92,63.9,85,1715,703,High,Patient shows signs of obesity observed.
+1,112,80,45,132,34.8,0.217,24,0,9449,46,63.4,97,2961,654,High,"Patient shows signs of poor sleep quality, obesity observed."
+4,145,82,18,0,32.5,0.235,70,1,6158,49,60.3,82,2058,303,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+10,111,70,27,0,27.5,0.141,40,1,5925,84,59.5,81,1658,276,Moderate,Patient is in stable condition with good vitals and activity.
+6,98,58,33,190,34,0.43,43,0,8970,56,35.2,107,1988,429,High,"Patient shows signs of poor sleep quality, obesity observed."
+9,154,78,30,100,30.9,0.164,45,0,8938,65,24,78,2185,457,High,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+6,165,68,26,168,33.6,0.631,49,0,6784,60,40.1,105,2765,463,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+1,99,58,10,0,25.4,0.551,21,0,6000,67,28.7,62,2293,530,Moderate,Patient shows signs of low heart rate variability.
+10,68,106,23,49,35.5,0.285,47,0,3633,97,54.7,101,1504,381,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+3,123,100,35,240,57.3,0.88,22,0,9266,85,37.3,78,1860,749,High,Patient shows signs of obesity observed.
+8,91,82,0,0,35.6,0.587,68,0,10702,41,68.8,68,1958,226,High,"Patient shows signs of poor sleep quality, obesity observed."
+6,195,70,0,0,30.9,0.328,31,1,2384,99,52,87,1747,475,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+9,156,86,0,0,24.8,0.23,53,1,2404,93,61.1,79,2445,498,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle."
+0,93,60,0,0,35.3,0.263,25,0,10175,82,26.6,104,1921,290,High,"Patient shows signs of obesity observed, low heart rate variability."
+3,121,52,0,0,36,0.127,25,1,4000,40,63.1,66,1514,679,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+2,101,58,17,265,24.2,0.614,23,0,11860,90,66.1,73,2235,772,High,Patient is in stable condition with good vitals and activity.
+2,56,56,28,45,24.2,0.332,22,0,7989,92,44.4,68,2645,657,Moderate,Patient is in stable condition with good vitals and activity.
+0,162,76,36,0,49.6,0.364,26,1,3460,75,50.3,78,1776,650,Low,"Patient shows signs of elevated glucose levels, sedentary lifestyle, obesity observed."
+0,95,64,39,105,44.6,0.366,22,0,9190,90,58.2,106,1952,564,High,Patient shows signs of obesity observed.
+4,125,80,0,0,32.3,0.536,27,1,9140,65,28.7,73,2913,550,High,"Patient shows signs of obesity observed, low heart rate variability."
+5,136,82,0,0,0,0.64,69,0,5636,68,45.1,97,2817,599,Moderate,Patient is in stable condition with good vitals and activity.
+2,129,74,26,205,33.2,0.591,25,0,6809,60,39.9,95,2097,452,Moderate,Patient shows signs of obesity observed.
+3,130,64,0,0,23.1,0.314,22,0,6178,50,27.3,99,1945,658,Moderate,"Patient shows signs of poor sleep quality, low heart rate variability."
+1,107,50,19,0,28.3,0.181,29,0,9245,79,38.4,76,1709,698,High,Patient is in stable condition with good vitals and activity.
+1,140,74,26,180,24.1,0.828,23,0,8600,50,23.4,89,2213,707,High,"Patient shows signs of poor sleep quality, low heart rate variability."
+1,144,82,46,180,46.1,0.335,46,1,7997,75,21.3,68,1801,503,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+8,107,80,0,0,24.6,0.856,34,0,4048,88,26.8,92,2746,700,Moderate,Patient shows signs of low heart rate variability.
+13,158,114,0,0,42.3,0.257,44,1,6780,98,68.2,84,1502,797,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+2,121,70,32,95,39.1,0.886,23,0,2716,78,47.5,73,2489,365,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+7,129,68,49,125,38.5,0.439,43,1,9939,79,68.3,70,2616,614,High,Patient shows signs of obesity observed.
+2,90,60,0,0,23.5,0.191,25,0,7565,74,41.6,94,2019,661,Moderate,Patient is in stable condition with good vitals and activity.
+7,142,90,24,480,30.4,0.128,43,1,6544,93,35.6,100,2951,313,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+3,169,74,19,125,29.9,0.268,31,1,6976,73,45.3,73,1992,632,Moderate,Patient shows signs of elevated glucose levels.
+0,99,0,0,0,25,0.253,22,0,5419,94,42,89,2758,555,Moderate,Patient is in stable condition with good vitals and activity.
+4,127,88,11,155,34.5,0.598,28,0,9239,86,25.3,100,2119,406,High,"Patient shows signs of obesity observed, low heart rate variability."
+4,118,70,0,0,44.5,0.904,26,0,11766,63,52,63,2684,434,High,Patient shows signs of obesity observed.
+2,122,76,27,200,35.9,0.483,26,0,2249,93,30.8,63,1830,641,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+6,125,78,31,0,27.6,0.565,49,1,10865,61,51,87,1832,554,High,Patient is in stable condition with good vitals and activity.
+1,168,88,29,0,35,0.905,52,1,2770,44,52.5,67,1549,714,Low,"Patient shows signs of elevated glucose levels, poor sleep quality, sedentary lifestyle, obesity observed."
+2,129,0,0,0,38.5,0.304,41,0,6363,95,27.6,61,2362,407,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+4,110,76,20,100,28.4,0.118,27,0,3077,72,23.1,100,1771,324,Low,"Patient shows signs of sedentary lifestyle, low heart rate variability."
+6,80,80,36,0,39.8,0.177,28,0,10427,97,59,105,2079,337,High,Patient shows signs of obesity observed.
+10,115,0,0,0,0,0.261,30,1,10580,75,43,81,2775,538,High,Patient is in stable condition with good vitals and activity.
+2,127,46,21,335,34.4,0.176,22,0,9901,86,22.9,100,2059,736,High,"Patient shows signs of obesity observed, low heart rate variability."
+9,164,78,0,0,32.8,0.148,45,1,6858,59,69.7,75,2195,267,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+2,93,64,32,160,38,0.674,23,1,8544,58,22.9,88,2613,772,High,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+3,158,64,13,387,31.2,0.295,24,0,6719,74,54.8,108,1945,740,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+5,126,78,27,22,29.6,0.439,40,0,4814,91,69.2,107,2516,582,Moderate,Patient is in stable condition with good vitals and activity.
+10,129,62,36,0,41.2,0.441,38,1,5374,82,32,89,2855,218,Moderate,Patient shows signs of obesity observed.
+0,134,58,20,291,26.4,0.352,21,0,3252,56,27.1,71,2662,649,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, low heart rate variability."
+3,102,74,0,0,29.5,0.121,32,0,8996,98,26.1,94,1856,273,High,Patient shows signs of low heart rate variability.
+7,187,50,33,392,33.9,0.826,34,1,6673,84,35.2,70,1773,772,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+3,173,78,39,185,33.8,0.97,31,1,6530,82,25.1,105,2542,475,Moderate,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+10,94,72,18,0,23.1,0.595,56,0,8881,73,54.6,109,1810,247,High,Patient is in stable condition with good vitals and activity.
+1,108,60,46,178,35.5,0.415,24,0,8949,48,23.1,80,2369,410,High,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+5,97,76,27,0,35.6,0.378,52,1,11521,65,45.5,80,2385,739,High,Patient shows signs of obesity observed.
+4,83,86,19,0,29.3,0.317,34,0,8241,41,69.8,64,1653,390,High,Patient shows signs of poor sleep quality.
+1,114,66,36,200,38.1,0.289,21,0,10017,92,60.7,107,2913,514,High,Patient shows signs of obesity observed.
+1,149,68,29,127,29.3,0.349,42,1,8941,48,50.8,79,2783,762,High,"Patient shows signs of elevated glucose levels, poor sleep quality."
+5,117,86,30,105,39.1,0.251,42,0,11550,48,35.3,96,2119,761,High,"Patient shows signs of poor sleep quality, obesity observed."
+1,111,94,0,0,32.8,0.265,45,0,9002,79,51.2,62,2382,312,High,Patient shows signs of obesity observed.
+4,112,78,40,0,39.4,0.236,38,0,3331,56,46.4,103,2296,369,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+1,116,78,29,180,36.1,0.496,25,0,6261,40,41.3,92,1624,667,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+0,141,84,26,0,32.4,0.433,22,0,9648,64,26.5,68,2877,213,High,"Patient shows signs of elevated glucose levels, obesity observed, low heart rate variability."
+2,175,88,0,0,22.9,0.326,22,0,11550,82,64.3,68,2796,487,High,Patient shows signs of elevated glucose levels.
+2,92,52,0,0,30.1,0.141,22,0,7115,79,42.5,63,2118,388,Moderate,Patient shows signs of obesity observed.
+3,130,78,23,79,28.4,0.323,34,1,6637,81,29.7,94,1744,354,Moderate,Patient shows signs of low heart rate variability.
+8,120,86,0,0,28.4,0.259,22,1,6854,64,38.4,76,2347,766,Moderate,Patient is in stable condition with good vitals and activity.
+2,174,88,37,120,44.5,0.646,24,1,5177,78,40.7,93,1949,670,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+2,106,56,27,165,29,0.426,22,0,9730,74,61.4,83,2429,274,High,Patient is in stable condition with good vitals and activity.
+2,105,75,0,0,23.3,0.56,53,0,4180,42,56.7,91,2770,476,Moderate,Patient shows signs of poor sleep quality.
+4,95,60,32,0,35.4,0.284,28,0,6892,89,58.5,60,2019,542,Moderate,Patient shows signs of obesity observed.
+0,126,86,27,120,27.4,0.515,21,0,9043,76,20.6,67,2664,624,High,Patient shows signs of low heart rate variability.
+8,65,72,23,0,32,0.6,42,0,2137,83,40.8,104,1861,770,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+2,99,60,17,160,36.6,0.453,21,0,8327,83,44.1,82,1507,710,High,Patient shows signs of obesity observed.
+1,102,74,0,0,39.5,0.293,42,1,5472,90,21,106,1977,381,Moderate,"Patient shows signs of obesity observed, low heart rate variability."
+11,120,80,37,150,42.3,0.785,48,1,7449,69,33,99,2875,657,Moderate,Patient shows signs of obesity observed.
+3,102,44,20,94,30.8,0.4,26,0,4832,77,58,71,1994,263,Moderate,Patient shows signs of obesity observed.
+1,109,58,18,116,28.5,0.219,22,0,5579,73,26.9,71,2332,459,Moderate,Patient shows signs of low heart rate variability.
+9,140,94,0,0,32.7,0.734,45,1,7971,51,46.8,105,2950,392,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+13,153,88,37,140,40.6,1.174,39,0,6164,58,30.8,106,2562,605,Moderate,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+12,100,84,33,105,30,0.488,46,0,9941,76,20.6,74,2092,292,High,Patient shows signs of low heart rate variability.
+1,147,94,41,0,49.3,0.358,27,1,7569,83,32.1,100,1686,629,Moderate,"Patient shows signs of elevated glucose levels, obesity observed."
+1,81,74,41,57,46.3,1.096,32,0,6300,98,68.8,78,2253,633,Moderate,Patient shows signs of obesity observed.
+3,187,70,22,200,36.4,0.408,36,1,8269,98,60.1,85,1592,603,High,"Patient shows signs of elevated glucose levels, obesity observed."
+6,162,62,0,0,24.3,0.178,50,1,5818,88,68,88,1585,633,Moderate,Patient shows signs of elevated glucose levels.
+4,136,70,0,0,31.2,1.182,22,1,3906,56,44.4,81,2567,311,Low,"Patient shows signs of poor sleep quality, sedentary lifestyle, obesity observed."
+1,121,78,39,74,39,0.261,28,0,8254,49,25.5,99,1636,574,High,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+3,108,62,24,0,26,0.223,25,0,2760,96,47.4,80,1920,258,Low,Patient shows signs of sedentary lifestyle.
+0,181,88,44,510,43.3,0.222,26,1,9830,94,42.7,97,1573,242,High,"Patient shows signs of elevated glucose levels, obesity observed."
+8,154,78,32,0,32.4,0.443,45,1,9350,88,62.2,79,2679,406,High,"Patient shows signs of elevated glucose levels, obesity observed."
+1,128,88,39,110,36.5,1.057,37,1,8238,86,24.9,88,2778,495,High,"Patient shows signs of obesity observed, low heart rate variability."
+7,137,90,41,0,32,0.391,39,0,8090,51,44.4,63,1670,317,High,"Patient shows signs of poor sleep quality, obesity observed."
+0,123,72,0,0,36.3,0.258,52,1,8031,55,27.5,66,1669,731,High,"Patient shows signs of poor sleep quality, obesity observed, low heart rate variability."
+1,106,76,0,0,37.5,0.197,26,0,9687,63,36.2,87,2371,421,High,Patient shows signs of obesity observed.
+6,190,92,0,0,35.5,0.278,66,1,11091,58,56.9,87,1821,365,High,"Patient shows signs of elevated glucose levels, poor sleep quality, obesity observed."
+2,88,58,26,16,28.4,0.766,22,0,11911,47,43.8,63,1955,355,High,Patient shows signs of poor sleep quality.
+9,170,74,31,0,44,0.403,43,1,10472,70,38.8,81,2443,383,High,"Patient shows signs of elevated glucose levels, obesity observed."
+9,89,62,0,0,22.5,0.142,33,0,3887,60,39.7,71,2289,289,Low,Patient shows signs of sedentary lifestyle.
+10,101,76,48,180,32.9,0.171,63,0,5266,56,43,104,2112,293,Moderate,"Patient shows signs of poor sleep quality, obesity observed."
+2,122,70,27,0,36.8,0.34,27,0,2666,62,59.3,62,2678,212,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+5,121,72,23,112,26.2,0.245,30,0,6188,76,64.6,81,2388,637,Moderate,Patient is in stable condition with good vitals and activity.
+1,126,60,0,0,30.1,0.349,47,1,2671,93,67.8,103,1848,737,Low,"Patient shows signs of sedentary lifestyle, obesity observed."
+1,93,70,31,0,30.4,0.315,23,0,8777,55,59.3,61,2974,786,High,"Patient shows signs of poor sleep quality, obesity observed."
